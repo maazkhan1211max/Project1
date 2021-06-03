@@ -1,0 +1,1669 @@
+
+
+
+engin - wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+engineering
+
+from wikipedia, the free encyclopedia
+
+
+
+jump to navigation
+jump to search
+
+
+appli science
+thi articl is about the gener field call "engineering". for the design and build of actual engines, see engine.
+for other uses, see engin (disambiguation).
+engineering
+
+history
+outline
+glossary
+category
+portal
+
+vte
+
+
+ the insight lander with solar panel deploy in a cleanroom
+ the steam engine, the major driver in the industri revolution, underscor the import of engin in modern history. thi beam engin is on display in the technic univers of madrid.
+engin is the use of scientif principl to design and build machines, structures, and other items, includ bridges, tunnels, roads, vehicles, and buildings.[1] the disciplin of engin encompass a broad rang of more special field of engineering, each with a more specif emphasi on particular area of appli mathematics, appli science, and type of application. see glossari of engineering.
+th term engin is deriv from the latin ingenium, mean "cleverness" and ingeniare, mean "to contrive, devise".[2]
+
+contents
+
+1 definition
+2 history
+
+2.1 ancient era
+2.2 middl ages
+2.3 modern era
+
+
+3 main branch of engineering
+
+3.1 chemic engineering
+3.2 civil engineering
+3.3 electr engineering
+3.4 mechan engineering
+
+
+4 interdisciplinari engineering
+5 other branch of engineering
+
+5.1 aerospac engineering
+5.2 marin engineering
+5.3 comput engineering
+
+
+6 practice
+7 methodology
+
+7.1 problem solving
+7.2 comput use
+
+
+8 social context
+
+8.1 code of ethics
+
+
+9 relationship with other disciplines
+
+9.1 science
+9.2 medicin and biology
+9.3 art
+9.4 business
+9.5 other fields
+
+
+10 see also
+11 references
+12 further reading
+13 extern links
+
+
+definition
+th american engineers' council for profession develop (ecpd, the predecessor of abet)[3] ha defin "engineering" as:
+
+th creativ applic of scientif principl to design or develop structures, machines, apparatus, or manufactur processes, or work util them singli or in combination; or to construct or oper the same with full cogniz of their design; or to forecast their behavior under specif oper conditions; all as respect an intend function, econom of oper and safeti to life and property.[4][5]
+history
+main article: histori of engineering
+ relief map of the citadel of lille, design in 1668 by vauban, the foremost militari engin of hi age.
+engin ha exist sinc ancient times, when human devis invent such as the wedge, lever, wheel and pulley, etc.
+th term engin is deriv from the word engineer, which itself date back to the 14th centuri when an engine' (literally, one who build or oper a sieg engine) refer to "a constructor of militari engines."[6] in thi context, now obsolete, an "engine" refer to a militari machine, i.e., a mechan contrapt use in war (for example, a catapult). notabl exampl of the obsolet usag which have surviv to the present day are militari engin corps, e.g., the u.s. armi corp of engineers.
+th word "engine" itself is of even older origin, ultim deriv from the latin ingenium (c. 1250), mean "innat quality, especi mental power, henc a clever invention."[7]
+later, as the design of civilian structures, such as bridg and buildings, matur as a technic discipline, the term civil engineering[5] enter the lexicon as a way to distinguish between those special in the construct of such non-militari project and those involv in the disciplin of militari engineering.
+
+anci era
+ the ancient roman built aqueduct to bring a steadi suppli of clean and fresh water to citi and town in the empire.
+th pyramid in ancient egypt, ziggurat of mesopotamia, the acropoli and parthenon in greece, the roman aqueducts, via appia and colosseum, teotihuacán, and the brihadeeswarar templ of thanjavur, among mani others, stand as a testament to the ingenu and skill of ancient civil and militari engineers. other monuments, no longer standing, such as the hang garden of babylon and the pharo of alexandria, were import engin achiev of their time and were consid among the seven wonder of the ancient world.
+th six classic simpl machin were known in the ancient near east. the wedg and the inclin plane (ramp) were known sinc prehistor times.[8] the wheel, along with the wheel and axl mechanism, wa invent in mesopotamia (modern iraq) dure the 5th millennium bc.[9] the lever mechan first appear around 5,000 year ago in the near east, where it wa use in a simpl balanc scale,[10] and to move larg object in ancient egyptian technology.[11] the lever wa also use in the shadoof water-lift device, the first crane machine, which appear in mesopotamia circa 3000 bc,[10] and then in ancient egyptian technolog circa 2000 bc.[12] the earliest evid of pulley date back to mesopotamia in the earli 2nd millennium bc,[13] and ancient egypt dure the twelfth dynasti (1991-1802 bc).[14] the screw, the last of the simpl machin to be invented,[15] first appear in mesopotamia dure the neo-assyrian period (911-609) bc.[16] the egyptian pyramid were built use three of the six simpl machines, the inclin plane, the wedge, and the lever, to creat structur like the great pyramid of giza.[17]
+th earliest civil engin known by name is imhotep.[5] as one of the offici of the pharaoh, djosèr, he probabl design and supervis the construct of the pyramid of djoser (the step pyramid) at saqqara in egypt around 2630–2611 bc.[18] the earliest practic water-pow machines, the water wheel and watermill, first appear in the persian empire, in what are now iraq and iran, by the earli 4th centuri bc.[19]
+kush develop the sakia dure the 4th centuri bc, which reli on anim power instead of human energy.[20]hafir were develop as a type of reservoir in kush to store and contain water as well as boost irrigation.[21] sapper were employ to build causeway dure militari campaigns.[22]kushit ancestor built speo dure the bronz age between 3700 and 3250 bc.[23]bloomeri and blast furnac were also creat dure the 7th centuri bc in kush.[24][25][26][27]
+anci greec develop machin in both civilian and militari domains. the antikythera mechanism, an earli known mechan analog computer,[28][29] and the mechan invent of archimedes, are exampl of greek mechan engineering. some of archimedes' invent as well as the antikythera mechan requir sophist knowledg of differenti gear or epicycl gearing, two key principl in machin theori that help design the gear train of the industri revolution, and are still wide use today in divers field such as robot and automot engineering.[30]
+anci chinese, greek, roman and hunnic armi employ militari machin and invent such as artilleri which wa develop by the greek around the 4th centuri bc,[31] the trireme, the ballista and the catapult. in the middl ages, the trebuchet wa developed.
+
+middl ages
+th earliest practic wind-pow machines, the windmil and wind pump, first appear in the muslim world dure the islam golden age, in what are now iran, afghanistan, and pakistan, by the 9th centuri ad.[32][33][34][35] the earliest practic steam-pow machin wa a steam jack driven by a steam turbine, describ in 1551 by taqi al-din muhammad ibn ma'ruf in ottoman egypt.[36][37]
+th cotton gin wa invent in india by the 6th centuri ad,[38] and the spin wheel wa invent in the islam world by the earli 11th century,[39] both of which were fundament to the growth of the cotton industry. the spin wheel wa also a precursor to the spin jenny, which wa a key develop dure the earli industri revolut in the 18th century.[40] the crankshaft and camshaft were invent by al-jazari in northern mesopotamia circa 1206,[41][42][43] and they later becam central to modern machineri such as the steam engine, intern combust engin and automat controls.[44]
+th earliest programm machin were develop in the muslim world. a music sequencer, a programm music instrument, wa the earliest type of programm machine. the first music sequenc wa an autom flute player invent by the banu musa brothers, describ in their book of ingeni devices, in the 9th century.[45][46] in 1206, al-jazari invent programm automata/robots. he describ four automaton musicians, includ drummer oper by a programm drum machine, where they could be made to play differ rhythm and differ drum patterns.[47] the castl clock, a hydropow mechan astronom clock invent by al-jazari, wa the first programm analog computer.[48][49][50]
+
+ a water-pow mine hoist use for rais ore, ca. 1556
+befor the develop of modern engineering, mathemat wa use by artisan and craftsmen, such as millwrights, clockmakers, instrument maker and surveyors. asid from these professions, univers were not believ to have had much practic signific to technology.[51]:32
+a standard refer for the state of mechan art dure the renaiss is given in the mine engin treatis de re metallica (1556), which also contain section on geology, mining, and chemistry. de re metallica wa the standard chemistri refer for the next 180 years.[51]
+
+modern era
+ the applic of the steam engin allow coke to be substitut for charcoal in iron making, lower the cost of iron, which provid engin with a new materi for build bridges. thi bridg wa made of cast iron, which wa soon displac by less brittl wrought iron as a structur material
+th scienc of classic mechanics, sometim call newtonian mechanics, form the scientif basi of much of modern engineering.[51] with the rise of engin as a profess in the 18th century, the term becam more narrowli appli to field in which mathemat and scienc were appli to these ends. similarly, in addit to militari and civil engineering, the field then known as the mechan art becam incorpor into engineering.
+can build wa an import engin work dure the earli phase of the industri revolution.[52]
+john smeaton wa the first self-proclaim civil engin and is often regard as the "father" of civil engineering. he wa an english civil engin respons for the design of bridges, canals, harbors, and lighthouses. he wa also a capabl mechan engin and an emin physicist. use a model water wheel, smeaton conduct experi for seven years, determin way to increas efficiency.[53]:127 smeaton introduc iron axl and gear to water wheels.[51]:69 smeaton also made mechan improv to the newcomen steam engine. smeaton design the third eddyston lighthous (1755–59) where he pioneer the use of 'hydraul lime' (a form of mortar which will set under water) and develop a techniqu involv dovetail block of granit in the build of the lighthouse. he is import in the history, rediscoveri of, and develop of modern cement, becaus he identifi the composit requir need to obtain "hydraulicity" in lime; work which led ultim to the invent of portland cement.
+appli scienc lead to the develop of the steam engine. the sequenc of event began with the invent the baromet and the measur of atmospher pressur by evangelista torricelli in 1643, demonstr of the forc of atmospher pressur by otto von guerick use the magdeburg hemispher in 1656, laboratori experi by deni papin, who built experiment model steam engin and demonstr the use of a piston, which he publish in 1707. edward somerset, 2nd marquess of worcest publish a book of 100 invent contain a method for rais water similar to a coffe percolator. samuel morland, a mathematician and inventor who work on pumps, left note at the vauxhal ordin offic on a steam pump design that thoma saveri read. in 1698 saveri built a steam pump call "the miner' friend." it employ both vacuum and pressure.[54] iron merchant thoma newcomen, who built the first commerci piston steam engin in 1712, wa not known to have ani scientif training.[53]:32
+
+ jumbo jet
+th applic of steam-pow cast iron blow cylind for provid pressur air for blast furnac lead to a larg increas in iron product in the late 18th century. the higher furnac temperatur made possibl with steam-pow blast allow for the use of more lime in blast furnaces, which enabl the transit from charcoal to coke.[55] these innov lower the cost of iron, make hors railway and iron bridg practical. the puddl process, patent by henri cort in 1784 produc larg scale quantiti of wrought iron. hot blast, patent by jame beaumont neilson in 1828, greatli lower the amount of fuel need to smelt iron. with the develop of the high pressur steam engine, the power to weight ratio of steam engin made practic steamboat and locomot possible.[56] new steel make processes, such as the bessem process and the open hearth furnace, usher in an area of heavi engin in the late 19th century.
+on of the most famou engin of the mid 19th centuri wa isambard kingdom brunel, who built railroads, dockyard and steamships.
+
+ offshor platform, gulf of mexico
+th industri revolut creat a demand for machineri with metal parts, which led to the develop of sever machin tools. bore cast iron cylind with precis wa not possibl until john wilkinson invent hi bore machine, which is consid the first machin tool.[57] other machin tool includ the screw cut lathe, mill machine, turret lath and the metal planer. precis machin techniqu were develop in the first half of the 19th century. these includ the use of gig to guid the machin tool over the work and fixtur to hold the work in the proper position. machin tool and machin techniqu capabl of produc interchang part lead to larg scale factori product by the late 19th century.[58]
+th unit state censu of 1850 list the occup of "engineer" for the first time with a count of 2,000.[59] there were fewer than 50 engin graduat in the u.s. befor 1865. in 1870 there were a dozen u.s. mechan engin graduates, with that number increas to 43 per year in 1875. in 1890, there were 6,000 engin in civil, mining, mechan and electrical.[60]
+ther wa no chair of appli mechan and appli mechan at cambridg until 1875, and no chair of engin at oxford until 1907. germani establish technic univers earlier.[61]
+th foundat of electr engin in the 1800 includ the experi of alessandro volta, michael faraday, georg ohm and other and the invent of the electr telegraph in 1816 and the electr motor in 1872. the theoret work of jame maxwel (see: maxwell' equations) and heinrich hertz in the late 19th centuri gave rise to the field of electronics. the later invent of the vacuum tube and the transistor further acceler the develop of electron to such an extent that electr and electron engin current outnumb their colleagu of ani other engin specialty.[5]
+chem engin develop in the late nineteenth century.[5] industri scale manufactur demand new materi and new process and by 1880 the need for larg scale product of chemic wa such that a new industri wa created, dedic to the develop and larg scale manufactur of chemic in new industri plants.[5] the role of the chemic engin wa the design of these chemic plant and processes.[5]
+
+ the solar furnac at odeillo in the pyrénées-oriental in franc can reach temperatur up to 3,500 °c (6,330 °f)
+aeronaut engin deal with aircraft design process design while aerospac engin is a more modern term that expand the reach of the disciplin by includ spacecraft design. it origin can be trace back to the aviat pioneer around the start of the 20th centuri although the work of sir georg cayley ha recent been date as be from the last decad of the 18th century. earli knowledg of aeronaut engin wa larg empir with some concept and skill import from other branch of engineering.[62]
+th first phd in engin (technically, appli scienc and engineering) award in the unit state went to josiah willard gibb at yale univers in 1863; it wa also the second phd award in scienc in the u.s.[63]
+onli a decad after the success flight by the wright brothers, there wa extens develop of aeronaut engin through develop of militari aircraft that were use in world war i. meanwhile, research to provid fundament background scienc continu by combin theoret physic with experiments.
+
+main branch of engineering
+for a topic guid to thi subject, see outlin of engineering.
+ hoover dam
+engin is a broad disciplin that is often broken down into sever sub-disciplines. although an engin will usual be train in a specif discipline, he or she may becom multi-disciplin through experience. engin is often character as have four main branches:[64][65][66] chemic engineering, civil engineering, electr engineering, and mechan engineering.
+
+chem engineering
+main article: chemic engineering
+chem engin is the applic of physics, chemistry, biology, and engin principl in order to carri out chemic process on a commerci scale, such as the manufactur of commod chemicals, specialti chemicals, petroleum refining, microfabrication, fermentation, and biomolecul production.
+
+civil engineering
+main article: civil engineering
+civil engin is the design and construct of public and privat works, such as infrastructur (airports, roads, railways, water supply, and treatment etc.), bridges, tunnels, dams, and buildings.[67][68] civil engin is tradit broken into a number of sub-disciplines, includ structur engineering, environment engineering, and surveying. it is tradit consid to be separ from militari engineering.[69]
+
+electr engineering
+main article: electr engineering
+ electr motor
+electr engin is the design, study, and manufactur of variou electr and electron systems, such as broadcast engineering, electr circuits, generators, motors, electromagnetic/electromechan devices, electron devices, electron circuits, optic fibers, optoelectron devices, comput systems, telecommunications, instrumentation, control systems, and electronics.
+
+mechan engineering
+main article: mechan engineering
+mechan engin is the design and manufactur of physic or mechan systems, such as power and energi systems, aerospace/aircraft products, weapon systems, transport products, engines, compressors, powertrains, kinemat chains, vacuum technology, vibrat isol equipment, manufacturing, robotics, turbines, audio equipments, and mechatronics.
+
+interdisciplinari engineering
+main article: list of engin branches
+interdisciplinari engin draw from more than one of the principl branch of the practice. historically, naval engin and mine engin were major branches. other engin field are manufactur engineering, acoust engineering, corros engineering, instrument and control, aerospace, automotive, computer, electronic, inform engineering, petroleum, environmental, systems, audio, software, architectural, agricultural, biosystems, biomedical,[70] geological, textile, industrial, materials,[71] and nuclear engineering.[72] these and other branch of engin are repres in the 36 licens member institut of the uk engin council.
+new specialti sometim combin with the tradit field and form new branch – for example, earth system engin and manag involv a wide rang of subject area includ engin studies, environment science, engin ethic and philosophi of engineering.
+
+oth branch of engineering
+aerospac engineering
+main article: aerospac engineering
+aerospac engin studi design, manufactur aircraft, satellites, rockets, helicopters, and so on. it close studi the pressur differ and aerodynam of a vehicl to ensur safeti and efficiency. sinc most of the studi are relat to fluids, it is appli to ani move vehicle, such as cars.
+
+marin engineering
+main article: marin engineering
+marin engin is associ with anyth on or near the ocean. exampl are, but not limit to, ships, submarines, oil rigs, structure, watercraft propulsion, on-board design and development, plants, harbors, and so on. it requir a combin knowledg in mechan engineering, electr engineering, civil engineering, and some program abilities.
+
+comput engineering
+main article: comput engineering
+comput engin (ce) is a branch of engin that integr sever field of comput scienc and electron engin requir to develop comput hardwar and software. comput engin usual have train in electron engin (or electr engineering), softwar design, and hardware-softwar integr instead of onli softwar engin or electron engineering.
+
+practice
+thi section doe not cite ani sources. pleas help improv thi section by ad citat to reliabl sources. unsourc materi may be challeng and removed. (june 2020) (learn how and when to remov thi templat message)
+on who practic engin is call an engineer, and those licens to do so may have more formal design such as profession engineer, charter engineer, incorpor engineer, ingenieur, european engineer, or design engin representative.
+
+methodology
+thi section need addit citat for verification. pleas help improv thi articl by ad citat to reliabl sources. unsourc materi may be challeng and removed. (june 2020) (learn how and when to remov thi templat message)
+ design of a turbin requir collabor of engin from mani fields, as the system involv mechanical, electro-magnet and chemic processes. the blades, rotor and stator as well as the steam cycl all need to be care design and optimized.
+in the engin design process, engin appli mathemat and scienc such as physic to find novel solut to problem or to improv exist solutions. engin need profici knowledg of relev scienc for their design projects. as a result, mani engin continu to learn new materi throughout their career.
+if multipl solut exist, engin weigh each design choic base on their merit and choos the solut that best match the requirements. the task of the engin is to identify, understand, and interpret the constraint on a design in order to yield a success result. it is gener insuffici to build a technic success product, rather, it must also meet further requirements.
+constraint may includ avail resources, physical, imagin or technic limitations, flexibl for futur modif and additions, and other factors, such as requir for cost, safety, marketability, productivity, and serviceability. by understand the constraints, engin deriv specif for the limit within which a viabl object or system may be produc and operated.
+
+problem solving
+ a draw for a booster engin for steam locomotives. engin is appli to design, with emphasi on function and the util of mathemat and science.
+engin use their knowledg of science, mathematics, logic, economics, and appropri experi or tacit knowledg to find suitabl solut to a problem. creat an appropri mathemat model of a problem often allow them to analyz it (sometim definitively), and to test potenti solutions.[73]
+usually, multipl reason solut exist, so engin must evalu the differ design choic on their merit and choos the solut that best meet their requirements. genrich altshuller, after gather statist on a larg number of patents, suggest that compromis are at the heart of "low-level" engin designs, while at a higher level the best design is one which elimin the core contradict caus the problem.[74]
+engin typic attempt to predict how well their design will perform to their specif prior to full-scal production. they use, among other things: prototypes, scale models, simulations, destruct tests, nondestruct tests, and stress tests. test ensur that product will perform as expected.[75]
+engin take on the respons of produc design that will perform as well as expect and will not caus unintend harm to the public at large. engin typic includ a factor of safeti in their design to reduc the risk of unexpect failure.
+th studi of fail product is known as forens engin and can help the product design in evalu hi or her design in the light of real conditions. the disciplin is of greatest valu after disasters, such as bridg collapses, when care analysi is need to establish the caus or caus of the failure.[76]
+
+comput use
+ a comput simul of high veloc air flow around a space shuttl orbit dure re-entry. solut to the flow requir model of the combin effect of fluid flow and the heat equations.
+a with all modern scientif and technolog endeavors, comput and softwar play an increasingli import role. as well as the typic busi applic softwar there are a number of comput aid applic (computer-aid technologies) specif for engineering. comput can be use to gener model of fundament physic processes, which can be solv use numer methods.
+
+ graphic represent of a minut fraction of the www, demonstr hyperlinks
+on of the most wide use design tool in the profess is computer-aid design (cad) software. it enabl engin to creat 3d models, 2d drawings, and schemat of their designs. cad togeth with digit mockup (dmu) and cae softwar such as finit element method analysi or analyt element method allow engin to creat model of design that can be analyz without have to make expens and time-consum physic prototypes.
+thes allow product and compon to be check for flaws; assess fit and assembly; studi ergonomics; and to analyz static and dynam characterist of system such as stresses, temperatures, electromagnet emissions, electr current and voltages, digit logic levels, fluid flows, and kinematics. access and distribut of all thi inform is gener organ with the use of product data manag software.[77]
+ther are also mani tool to support specif engin task such as computer-aid manufactur (cam) softwar to gener cnc machin instructions; manufactur process manag softwar for product engineering; eda for print circuit board (pcb) and circuit schemat for electron engineers; mro applic for mainten management; and architecture, engin and construct (aec) softwar for civil engineering.
+in recent year the use of comput softwar to aid the develop of good ha collect come to be known as product lifecycl manag (plm).[78]
+
+social context
+thi section possibl contain origin research. pleas improv it by verifi the claim made and ad inlin citations. statement consist onli of origin research should be removed. (juli 2010) (learn how and when to remov thi templat message)
+ robot kismet can produc a rang of facial expressions.
+th engin profess engag in a wide rang of activities, from larg collabor at the societ level, and also smaller individu projects. almost all engin project are oblig to some sort of financ agency: a company, a set of investors, or a government. the few type of engin that are minim constrain by such issu are pro bono engin and open-design engineering.
+bi it veri natur engin ha interconnect with society, cultur and human behavior. everi product or construct use by modern societi is influenc by engineering. the result of engin activ influenc chang to the environment, societi and economies, and it applic bring with it a respons and public safety.
+engin project can be subject to controversy. exampl from differ engin disciplin includ the develop of nuclear weapons, the three gorg dam, the design and use of sport util vehicl and the extract of oil. in response, some western engin compani have enact seriou corpor and social respons policies.
+engin is a key driver of innov and human development. sub-saharan africa, in particular, ha a veri small engin capac which result in mani african nation be unabl to develop crucial infrastructur without outsid aid.[cit needed] the attain of mani of the millennium develop goal requir the achiev of suffici engin capac to develop infrastructur and sustain technolog development.[79]
+
+ radar, gps, lidar, ... are all combin to provid proper navig and obstacl avoid (vehicl develop for 2007 darpa urban challenge)
+al oversea develop and relief ngo make consider use of engin to appli solut in disast and develop scenarios. a number of charit organ aim to use engin directli for the good of mankind:
+
+engin without borders
+engin against poverty
+regist engin for disast relief
+engin for a sustain world
+engin for change
+engin ministri international[80]
+engin compani in mani establish economi are face signific challeng with regard to the number of profession engin be trained, compar with the number retiring. thi problem is veri promin in the uk where engin ha a poor imag and low status.[81] there are mani neg econom and polit issu that thi can cause, as well as ethic issues.[82] it is wide agre that the engin profess face an "imag crisis",[83] rather than it be fundament an unattract career. much work is need to avoid huge problem in the uk and other western economies.
+
+cod of ethics
+main article: engin ethics
+mani engin societi have establish code of practic and code of ethic to guid member and inform the public at large. the nation societi of profession engin code of ethic states:
+
+ engin is an import and learn profession. as member of thi profession, engin are expect to exhibit the highest standard of honesti and integrity. engin ha a direct and vital impact on the qualiti of life for all people. accordingly, the servic provid by engin requir honesty, impartiality, fairness, and equity, and must be dedic to the protect of the public health, safety, and welfare. engin must perform under a standard of profession behavior that requir adher to the highest principl of ethic conduct.[84]
+in canada, mani engin wear the iron ring as a symbol and remind of the oblig and ethic associ with their profession.[85]
+
+relationship with other disciplines
+science
+scientist studi the world as it is; engin creat the world that ha never been.— theodor von kármán[86][87][88]
+ engineers, scientist and technician at work on target position insid nation ignit facil (nif) target chamber
+ther exist an overlap between the scienc and engin practice; in engineering, one appli science. both area of endeavor reli on accur observ of materi and phenomena. both use mathemat and classif criteria to analyz and commun observations.[cit needed]
+scientist may also have to complet engin tasks, such as design experiment apparatu or build prototypes. conversely, in the process of develop technolog engin sometim find themselv explor new phenomena, thu becoming, for the moment, scientist or more precis "engin scientists".[cit needed]
+
+ the intern space station is use to conduct scienc experi of outer space
+in the book what engin know and how they know it,[89] walter vincenti assert that engin research ha a charact differ from that of scientif research. first, it often deal with area in which the basic physic or chemistri are well understood, but the problem themselv are too complex to solv in an exact manner.
+ther is a "real and important" differ between engin and physic as similar to ani scienc field ha to do with technology.[90][91] physic is an exploratori scienc that seek knowledg of principl while engin use knowledg for practic applic of principles. the former equat an understand into a mathemat principl while the latter measur variabl involv and creat technology.[92][93][94] for technology, physic is an auxiliari and in a way technolog is consid as appli physics.[95] though physic and engin are interrelated, it doe not mean that a physicist is train to do an engineer' job. a physicist would typic requir addit and relev training.[96] physicist and engin engag in differ line of work.[97] but phd physicist who special in sector of engin physic and appli physic are titl as technolog officer, r&d engin and system engineers.[98]
+an exampl of thi is the use of numer approxim to the navier–stok equat to describ aerodynam flow over an aircraft, or the use of the finit element method to calcul the stress in complex components. second, engin research employ mani semi-empir method that are foreign to pure scientif research, one exampl be the method of paramet variation.[cit needed]
+a state by fung et al. in the revis to the classic engin text foundat of solid mechanics:
+
+engin is quit differ from science. scientist tri to understand nature. engin tri to make thing that do not exist in nature. engin stress innov and invention. to embodi an invent the engin must put hi idea in concret terms, and design someth that peopl can use. that someth can be a complex system, device, a gadget, a material, a method, a comput program, an innov experiment, a new solut to a problem, or an improv on what alreadi exists. sinc a design ha to be realist and functional, it must have it geometry, dimensions, and characterist data defined. in the past engin work on new design found that they did not have all the requir inform to make design decisions. most often, they were limit by insuffici scientif knowledge. thu they studi mathematics, physics, chemistry, biolog and mechanics. often they had to add to the scienc relev to their profession. thu engin scienc were born.[99]
+although engin solut make use of scientif principles, engin must also take into account safety, efficiency, economy, reliability, and construct or eas of fabric as well as the environment, ethic and legal consider such as patent infring or liabil in the case of failur of the solution.[100]
+
+medicin and biology
+ a 3 tesla clinic mri scanner.
+th studi of the human body, albeit from differ direct and for differ purposes, is an import common link between medicin and some engin disciplines. medicin aim to sustain, repair, enhanc and even replac function of the human body, if necessary, through the use of technology.
+
+ genet engin mice express green fluoresc protein, which glow green under blue light. the central mous is wild-type.
+modern medicin can replac sever of the body' function through the use of artifici organ and can significantli alter the function of the human bodi through artifici devic such as, for example, brain implant and pacemakers.[101][102] the field of bionic and medic bionic are dedic to the studi of synthet implant pertain to natur systems.
+conversely, some engin disciplin view the human bodi as a biolog machin worth studi and are dedic to emul mani of it function by replac biolog with technology. thi ha led to field such as artifici intelligence, neural networks, fuzzi logic, and robotics. there are also substanti interdisciplinari interact between engin and medicine.[103][104]
+both field provid solut to real world problems. thi often requir move forward befor phenomena are complet understood in a more rigor scientif sens and therefor experiment and empir knowledg is an integr part of both.
+medicine, in part, studi the function of the human body. the human body, as a biolog machine, ha mani function that can be model use engin methods.[105]
+th heart for exampl function much like a pump,[106] the skeleton is like a link structur with levers,[107] the brain produc electr signal etc.[108] these similar as well as the increas import and applic of engin principl in medicine, led to the develop of the field of biomed engin that use concept develop in both disciplines.
+newli emerg branch of science, such as system biology, are adapt analyt tool tradit use for engineering, such as system model and comput analysis, to the descript of biolog systems.[105]
+
+art
+ leonardo da vinci, seen here in a self-portrait, ha been describ as the epitom of the artist/engineer.[109] he is also known for hi studi on human anatomi and physiology.
+ther are connect between engin and art, for example, architecture, landscap architectur and industri design (even to the extent that these disciplin may sometim be includ in a university' faculti of engineering).[110][111][112]
+th art institut of chicago, for instance, held an exhibit about the art of nasa' aerospac design.[113] robert maillart' bridg design is perceiv by some to have been deliber artistic.[114] at the univers of south florida, an engin professor, through a grant with the nation scienc foundation, ha develop a cours that connect art and engineering.[110][115]
+among famou histor figures, leonardo da vinci is a well-known renaiss artist and engineer, and a prime exampl of the nexu between art and engineering.[109][116]
+
+business
+busi engin deal with the relationship between profession engineering, it systems, busi administr and chang management. engin manag or "manag engineering" is a special field of manag concern with engin practic or the engin industri sector. the demand for management-focus engin (or from the opposit perspective, manag with an understand of engineering), ha result in the develop of special engin manag degre that develop the knowledg and skill need for these roles. dure an engin manag course, student will develop industri engin skills, knowledge, and expertise, alongsid knowledg of busi administration, manag techniques, and strateg thinking. engin special in chang manag must have in-depth knowledg of the applic of industri and organiz psycholog principl and methods. profession engin often train as certifi manag consult in the veri special field of manag consult appli to engin practic or the engin sector. thi work often deal with larg scale complex busi transform or busi process manag initi in aerospac and defence, automotive, oil and gas, machinery, pharmaceutical, food and beverage, electr & electronics, power distribut & generation, util and transport systems. thi combin of technic engin practice, manag consult practice, industri sector knowledge, and chang manag expertis enabl profession engin who are also qualifi as manag consult to lead major busi transform initiatives. these initi are typic sponsor by c-level executives.
+
+oth fields
+in polit science, the term engin ha been borrow for the studi of the subject of social engin and polit engineering, which deal with form polit and social structur use engin methodolog coupl with polit scienc principles. market engin and financi engin have similarli borrow the term.
+
+se also
+
+
+engin portal
+main article: outlin of engineering
+lists
+
+engin society
+list of aerospac engin topics
+list of basic chemic engin topics
+list of electr engin topics
+list of engin topics
+list of engineers
+list of genet engin topics
+list of mechan engin topics
+list of nanoengin topics
+list of softwar engin topics
+
+glossaries
+
+glossari of area of mathematics
+glossari of biology
+glossari of chemistry
+glossari of engineering
+glossari of physics
+
+rel subjects
+
+controversi over the term engineer
+design
+earthquak engineering
+engineer
+engin economics
+engin education
+engin educ research
+engin without borders
+forens engineering
+glob engin education
+industri design
+infrastructure
+mathematics
+open-sourc hardware
+plan obsolescence
+revers engineering
+science
+structur failure
+sustain engineering
+technology
+women in engineering
+
+references
+
+
+^ definit of "engineering" from the
+https://dictionary.cambridge.org/dictionary/english/
+ cambridg academ content dictionari © cambridg university
+
+^ "about iaeng". iaeng.org. intern associ of engineers. retriev decemb 17, 2016.
+
+^ [1]
+
+^ engineers' council for profession development. (1947). canon of ethic for engineers
+
+^ a b c d e f g [2] (includ britannica articl on engineering)
+
+^ "engineer". oxford english dictionari (online ed.). oxford univers press. (subscript or particip institut membership required.)
+
+^ origin: 1250–1300; me engin < af, of < l ingenium nature, innat quality, esp. mental power, henc a clever invention, equiv. to in- + -genium, equiv. to gen- begetting; source: random hous unabridg dictionary, random house, inc. 2006.
+
+^ moorey, peter roger stuart (1999). ancient mesopotamian materi and industries: the archaeolog evidence. eisenbrauns. isbn 978-1-57506-042-2.
+
+^ d.t. pott (2012). a companion to the archaeolog of the ancient near east. p. 285.
+
+^ a b paipetis, s. a.; ceccarelli, marco (2010). the geniu of archimed – 23 centuri of influenc on mathematics, scienc and engineering: proceed of an intern confer held at syracuse, italy, june 8–10, 2010. springer scienc & busi media. p. 416. isbn 978-90-481-9091-1.
+
+^ clarke, somers; engelbach, reginald (1990). ancient egyptian construct and architecture. courier corporation. pp. 86–90. isbn 978-0-486-26485-1.
+
+^ faiella, graham (2006). the technolog of mesopotamia. the rosen publish group. p. 27. isbn 978-1-4042-0560-4.
+
+^ moorey, peter roger stuart (1999). ancient mesopotamian materi and industries: the archaeolog evidence. eisenbrauns. p. 4. isbn 978-1-57506-042-2.
+
+^ arnold, dieter (1991). build in egypt: pharaon stone masonry. oxford univers press. p. 71. isbn 978-0-19-511374-7.
+
+^ woods, michael; mari b. wood (2000). ancient machines: from wedg to waterwheels. usa: twenty-first centuri books. p. 58. isbn 0-8225-2994-7.
+
+^ moorey, peter roger stuart (1999). ancient mesopotamian materi and industries: the archaeolog evidence. eisenbrauns. p. 4. isbn 978-1-57506-042-2.
+
+^ wood, michael (2000). ancient machines: from grunt to graffiti. minneapolis, mn: runeston press. pp. 35, 36. isbn 0-8225-2996-3.
+
+^ kemp, barri j. (may 7, 2007). ancient egypt: anatomi of a civilisation. routledge. p. 159. isbn 978-1-134-56388-3.
+
+^ selin, helain (2013). encyclopaedia of the histori of science, technology, and medicin in non-westen cultures. springer scienc & busi media. p. 282. isbn 978-94-017-1416-7.
+
+^ g. mokhtar (januari 1, 1981). ancient civil of africa. unesco. intern scientif committe for the draft of a gener histori of africa. p. 309. isbn 978-0-435-94805-4. retriev june 19, 2012 – via books.google.com.
+
+^ fritz hintze, kush xi; pp.222-224.
+
+^ "sieg warfar in ancient egypt". tour egypt. retriev may 23, 2020.
+
+^ bianchi, robert steven (2004). daili life of the nubians. greenwood publish group. p. 227. isbn 978-0-313-32501-4.
+
+^ humphris, jane; charlton, michael f.; keen, jake; sauder, lee; alshishani, fare (2018). "iron smelt in sudan: experiment archaeolog at the royal citi of meroe". journal of field archaeology. 43 (5): 399. doi:10.1080/00934690.2018.1479085. issn 0093-4690.
+
+^ collins, robert o.; burns, jame m. (februari 8, 2007). a histori of sub-saharan africa. cambridg univers press. isbn 978-0-521-86746-7 – via googl books.
+
+^ edwards, david n. (juli 29, 2004). the nubian past: an archaeolog of the sudan. taylor & francis. isbn 978-0-203-48276-6 – via googl books.
+
+^ humphri j, charlton mf, keen j, sauder l, alshishani f (june 2018). "iron smelt in sudan: experiment archaeolog at the royal citi of meroe". journal of field archaeology. 43 (5): 399–416. doi:10.1080/00934690.2018.1479085.
+
+^ "the antikythera mechan research project archiv 2008-04-28 at the wayback machine", the antikythera mechan research project. retriev juli 1, 2007 quote: "the antikythera mechan is now understood to be dedic to astronom phenomena and oper as a complex mechan "computer" which track the cycl of the solar system."
+
+^ wilford, john (juli 31, 2008). "discov how greek comput in 100 b.c." the new york times.
+
+^ wright, m t. (2005). "epicycl gear and the antikythera mechanism, part 2". antiquarian horology. 29 (1 (septemb 2005)): 54–60.
+
+^ britannica on greek civil in the 5th centuri - militari technolog quote: "the 7th century, by contrast, had wit rapid innovations, such as the introduct of the hoplit and the trireme, which still were the basic instrument of war in the 5th." and "but it wa the develop of artilleri that open an epoch, and thi invent did not predat the 4th century. it wa first heard of in the context of sicilian warfar against carthag in the time of dionysiu i of syracuse."
+
+^ ahmad y hassan, donald routledg hill (1986). islam technology: an illustr history, p. 54. cambridg univers press. isbn 0-521-42239-6.
+
+^ lucas, adam (2006), wind, water, work: ancient and mediev mill technology, brill publishers, p. 65, isbn 90-04-14649-0
+
+^ eldridge, frank (1980). wind machin (2nd ed.). new york: litton educ publishing, inc. p. 15. isbn 0-442-26134-9.
+
+^ shepherd, william (2011). electr gener use wind power (1 ed.). singapore: world scientif publish co. pte. ltd. p. 4. isbn 978-981-4304-13-9.
+
+^ taqi al-din and the first steam turbine, 1551 a.d. archiv februari 18, 2008, at the wayback machine, web page, access on line octob 23, 2009; thi web page refer to ahmad y hassan (1976), taqi al-din and arab mechan engineering, pp. 34–5, institut for the histori of arab science, univers of aleppo.
+
+^ ahmad y. hassan (1976), taqi al-din and arab mechan engineering, p. 34-35, institut for the histori of arab science, univers of aleppo
+
+^ lakwete, angela (2003). invent the cotton gin: machin and myth in antebellum america. baltimore: the john hopkin univers press. pp. 1–6. isbn 978-0-8018-7394-2.
+
+^ pacey, arnold (1991) [1990]. technolog in world civilization: a thousand-year histori (first mit press paperback ed.). cambridg ma: the mit press. pp. 23–24.
+
+^ žmolek, michael andrew (2013). rethink the industri revolution: five centuri of transit from agrarian to industri capit in england. brill. p. 328. isbn 978-90-04-25179-3. the spin jenni wa basic an adapt of it precursor the spin wheel
+
+^ banu musa (authors), donald routledg hill (translator) (1979), the book of ingeni devic (kitāb al-ḥiyal), springer, pp. 23–4, isbn 90-277-0833-9
+
+^ salli ganchy, sarah gancher (2009), islam and science, medicine, and technology, the rosen publish group, p. 41, isbn 978-1-4358-5066-8
+
+^ georg ifrah (2001). the univers histori of computing: from the abacu to the quatum computer, p. 171, trans. e.f. harding, john wiley & sons, inc. (see [3])
+
+^ hill, donald (1998). studi in mediev islam technology: from philo to al-jazarī, from alexandria to diyār bakr. ashgate. pp. 231–232. isbn 978-0-86078-606-1.
+
+^ koetsier, teun (2001), "on the prehistori of programm machines: music automata, looms, calculators", mechan and machin theory, elsevier, 36 (5): 589–603, doi:10.1016/s0094-114x(01)00005-2.
+
+^ kapur, ajay; carnegie, dale; murphy, jim; long, jason (2017). "loudspeak optional: a histori of non-loudspeaker-bas electroacoust music" (pdf). organis sound. cambridg univers press. 22 (2): 195–205. doi:10.1017/s1355771817000103. issn 1355-7718. s2cid 143427257.
+
+^ professor noel sharkey, a 13th centuri programm robot (archive), univers of sheffield.
+
+^ "episod 11: ancient robots", ancient discoveries, histori channel, retriev septemb 6, 2008
+
+^ howard r. turner (1997), scienc in mediev islam: an illustr introduction, p. 184, univers of texa press, isbn 0-292-78149-0
+
+^ donald routledg hill, "mechan engin in the mediev near east", scientif american, may 1991, pp. 64–9 (cf. donald routledg hill, mechan engineering)
+
+^ a b c d musson, a.e.; robinson, eric h. (1969). scienc and technolog in the industri revolution. univers of toronto press.
+
+^ taylor, georg roger (1969). the transport revolution, 1815–1860. isbn 978-0-87332-101-3.
+
+^ a b rosen, william (2012). the most power idea in the world: a stori of steam, industri and invention. univers of chicago press. isbn 978-0-226-72634-2.
+
+^ jenkins, rhi (1936). link in the histori of engin and technolog from tudor times. ayer publishing. p. 66. isbn 978-0-8369-2167-0.
+
+^ tylecote, r.f. (1992). a histori of metallurgy, second edition. london: maney publishing, for the institut of materials. isbn 978-0-901462-88-6.
+
+^ hunter, loui c. (1985). a histori of industri power in the unit states, 1730–1930, vol. 2: steam power. charlottesville: univers press of virginia.
+
+^ roe, joseph wickham (1916), english and american tool builders, new haven, connecticut: yale univers press, lccn 16011753
+
+^ hounshell, david a. (1984), from the american system to mass production, 1800–1932: the develop of manufactur technolog in the unit states, baltimore, maryland: john hopkin univers press, isbn 978-0-8018-2975-8, lccn 83016269, oclc 1104810110
+
+^ cowan, ruth schwartz (1997), a social histori of american technology, new york: oxford univers press, p. 138, isbn 978-0-19-504605-2
+
+^ hunter, loui c. (1985). a histori of industri power in the unit states, 1730–1930, vol. 2: steam power. charlottesville: univers press of virginia.
+
+^ 
+williams, trevor i. (1982). a short histori of twentieth centuri technology. us: oxford univers press. p. 3. isbn 978-0-19-858159-8.
+
+^ van every, kermit e. (1986). "aeronaut engineering". encyclopedia americana. 1. grolier incorporated. p. 226.
+
+^ 
+wheeler, lynde, phelp (1951). josiah willard gibbs – the histori of a great mind. ox bow press. isbn 978-1-881987-11-6.
+
+^ journal of the british nuclear energi society: volum 1 british nuclear energi societi – 1962 – snippet view quote: in most univers it should be possibl to cover the main branch of engineering, i.e. civil, mechanical, electr and chemic engin in thi way. more special field of engin application, of which nuclear power is ...
+
+^ the engin profess by sir jame hamilton, uk engin council quote: "the civilingenior degre encompass the main branch of engin civil, mechanical, electrical, chemical." (from the internet archive)
+
+^ indu ramchandani (2000). student' britannica india,7vol.set. popular prakashan. p. 146. isbn 978-0-85229-761-2. retriev march 23, 2013. branch there are tradit four primari engin disciplines: civil, mechanical, electr and chemical.
+
+^ "histori and heritag of civil engineering". asce. archiv from the origin on februari 16, 2007. retriev august 8, 2007.
+
+^ "what is civil engineering". institut of civil engineers. retriev may 15, 2017.
+
+^ watson, j. garth. "civil engineering". encyclopaedia britannica.
+
+^ bronzino jd, ed., the biomed engin handbook, crc press, 2006, isbn 0-8493-2121-2
+
+^ bensaude-vincent, bernadett (march 2001). "the construct of a discipline: materi scienc in the unit states". histor studi in the physic and biolog sciences. 31 (2): 223–48. doi:10.1525/hsps.2001.31.2.223.
+
+^ "archiv copy" (pdf). archiv from the origin (pdf) on septemb 29, 2011. retriev august 2, 2011.cs1 maint: archiv copi as titl (link)
+
+^ nature, jim luca 2014-08-22t00:44:14z human. "what is engineering? | type of engineering". livescience.com. retriev septemb 15, 2019.
+
+^ "theori about engin – genrich altshuller". theoriesaboutengineering.org. retriev septemb 15, 2019.
+
+^ "compar the engin design process and the scientif method". scienc buddies. retriev septemb 15, 2019.
+
+^ "forens engin | asce". www.asce.org. retriev septemb 15, 2019.
+
+^ arbe, katrina (may 7, 2001). "pdm: not just for the big boy anymore". thomasnet. archiv from the origin on august 6, 2010. retriev decemb 30, 2006.
+
+^ arbe, katrina (may 22, 2003). "the latest chapter in cad softwar evaluation". thomasnet. archiv from the origin on august 6, 2010. retriev decemb 30, 2006.
+
+^ jowitt, paul w. (2006). "engin civilis from the shadows" (pdf). archiv from the origin (pdf) on octob 6, 2006.
+
+^ home page for emi archiv april 14, 2012, at the wayback machine
+
+^ "engineeringuk.com/about_us". archiv from the origin on may 30, 2014.
+
+^ "archiv copy". archiv from the origin on june 19, 2014. retriev june 19, 2014.cs1 maint: archiv copi as titl (link)
+
+^ "archiv copy". archiv from the origin on octob 6, 2014. retriev june 19, 2014.cs1 maint: archiv copi as titl (link)
+
+^ code of ethics, nation societi of profession engineers
+
+^ origin of the iron ring concept
+
+^ rosakis, are chair, divis of engin and appli science. "chair' message, caltech". archiv from the origin on novemb 4, 2011. retriev octob 15, 2011.
+
+^ ryschkewitsch, m.g. nasa chief engineer. "improv the capabl to engin complex system – broaden the convers on the art and scienc of system engineering" (pdf). p. 8 of 21. archiv from the origin (pdf) on june 23, 2013. retriev octob 15, 2011.
+
+^ american societi for engin educ (1970). engin education. 60. american societi for engin education. p. 467. the great engin theodor von karman onc said, "scientist studi the world as it is, engin creat the world that never ha been." today, more than ever, the engin must creat a world that never ha been ...
+
+^ vincenti, walter g. (1993). what engin know and how they know it: analyt studi from aeronaut history. john hopkin univers press. isbn 978-0-8018-3974-0.
+
+^ walter g whitman; august paul peck. whitman-peck physics. american book company, 1946, p. 06. oclc 3247002
+
+^ ateneo de manila univers press. philippin studies, vol. 11, no. 4, 1963. p. 600
+
+^ "relationship between physic and electr engineering". journal of the a.i.e.e. 46 (2): 107–108. 1927. doi:10.1109/jaiee.1927.6534988. s2cid 51673339.
+
+^ puttaswamaiah. futur of econom science. oxford and ibh publishing, 2008, p. 208.
+
+^ yoseph bar-cohen, cynthia l. breazeal. biolog inspir intellig robots. spie press, 2003. isbn 978-0-8194-4872-9. p. 190
+
+^ c. morón, e. tremps, a. garcía, j.a. somolino (2011) the physic and it relat with the engineering, inted2011 proceed pp. 5929–34. isbn 978-84-614-7423-3
+
+^ r gazzinelli, r l moreira, w n rodrigues. physic and industri development: bridg the gap. world scientific, 1997, p. 110.
+
+^ steve fuller. knowledg manag foundations. routledge, 2012. isbn 978-1-136-38982-5. p. 92
+
+^ "industri physicists: primarili specialis in engineering" (pdf). american institut for physics. octob 2016.
+
+^ classic and comput solid mechanics, yc fung and p. tong. world scientific. 2001.
+
+^ "code of ethic | nation societi of profession engineers". www.nspe.org. retriev septemb 10, 2019.
+
+^ ethic assess of implant brain chips. ellen m. mcgee and g.q. maguire, jr. from boston university
+
+^ ieee technic paper: foreign part (electron bodi implants).bi evans-pughe, c. quot from summary: feel threaten by cyborgs?
+
+^ institut of medicin and engineering: mission statement the mission of the institut for medicin and engin (ime) is to stimul fundament research at the interfac between biomedicin and engineering/physical/comput scienc lead to innov applic in biomed research and clinic practice. archiv march 17, 2007, at the wayback machine
+
+^ ieee engin in medicin and biology: both gener and technic articl on current technolog and method use in biomed and clinic engineering ...
+
+^ a b royal academi of engin and academi of medic sciences: system biology: a vision for engin and medicin in pdf: quote1: system biolog is an emerg methodolog that ha yet to be defin quote2: it appli the concept of system engin to the studi of complex biolog system through iter between comput or mathemat model and experimentation. archiv april 10, 2007, at the wayback machine
+
+^ scienc museum of minnesota: onlin lesson 5a; the heart as a pump
+
+^ minnesota state univers emuseum: bone act as lever archiv decemb 20, 2008, at the wayback machine
+
+^ uc berkeley news: uc research creat model of brain' electr storm dure a seizure
+
+^ a b bjerklie, david. "the art of renaiss engineering." mit' technolog review jan./feb.1998: 54–59. articl explor the concept of the "artist-engineer", an individu who use hi artist talent in engineering. quot from article: da vinci reach the pinnacl of "artist-engineer"-dom, quote2: "it wa leonardo da vinci who initi the most ambiti expans in the role of artist-engineer, progress from astut observ to inventor to theoretician." (bjerkli 58)
+
+^ a b nation scienc foundation:th art of engineering: professor use the fine art to broaden students' engin perspectives
+
+^ mit world:th art of engineering: inventor jame dyson on the art of engineering: quote: a member of the british design council, jame dyson ha been design product sinc graduat from the royal colleg of art in 1970. archiv juli 5, 2006, at the wayback machine
+
+^ univers of texa at dallas: the institut for interact art and engineering
+
+^ "aerospac design: the art of engin from nasa' aeronaut research". archiv from the origin on august 15, 2003. retriev march 31, 2007.
+
+^ princeton u: robert maillart' bridges: the art of engineering: quote: no doubt that maillart wa fulli consciou of the aesthet implications ...
+
+^ quote:..th tool of artist and the perspect of engineers.. archiv septemb 27, 2007, at the wayback machine
+
+^ drew u: user website: cite bjerkli paper archiv april 19, 2007, at the wayback machine
+
+
+furth reading
+
+blockley, david (2012). engineering: a veri short introduction. new york: oxford univers press. isbn 978-0-19-957869-6.
+dorf, richard, ed. (2005). the engin handbook (2 ed.). boca raton: crc. isbn 978-0-8493-1586-2.
+billington, david p. (june 5, 1996). the innovators: the engin pioneer who made america modern. wiley; new ed edition. isbn 978-0-471-14026-9.
+madhavan, guru (2015). appli minds: how engin think. w.w. norton.
+petroski, henri (march 31, 1992). to engin is human: the role of failur in success design. vintage. isbn 978-0-679-73416-1.
+lord, charl r. (august 15, 2000). guid to inform sourc in engineering. librari unlimited. doi:10.1336/1563086999. isbn 978-1-56308-699-1.
+vincenti, walter g. (februari 1, 1993). what engin know and how they know it: analyt studi from aeronaut history. the john hopkin univers press. isbn 978-0-8018-4588-8.
+
+extern links
+ the dictionari definit of engin at wiktionary
+ learn materi relat to engin at wikiversity
+ quotat relat to engin at wikiquote
+engin at the encyclopædia britannica
+vteengineeringcivil
+architectural
+construction
+earthquake
+environmental
+geotechnical
+hydraulic
+mining
+structural
+transportation
+mechanical
+acoustical
+aerospace
+automotive
+marine
+railway
+thermal
+electrical
+computer
+control
+electromechanics
+electronics
+microwaves
+optical
+photonics
+power
+radio frequency
+telecommunications
+chemical
+biochemical
+biological
+molecular
+petroleum
+process
+reaction
+interdisciplinary
+agricultural
+appli mechanics
+audio
+biomedical
+engin mathematics
+engin physics
+fire
+food
+industrial
+information
+materi science
+ceramics
+metals
+polymers
+mechatronics
+military
+nanotechnology
+nuclear
+privacy
+robotics
+sanitary
+security
+software
+systems
+glossaries
+engineering
+aerospac engineering
+civil engineering
+electr and electron engineering
+mechan engineering
+structur engineering
+
+engin branches
+ category
+ portal
+
+vtephilosophi of scienceconcepts
+analysis
+analytic–synthet distinction
+a priori and a posteriori
+causality
+commensurability
+consilience
+construct
+cr synthesis
+demarc problem
+empir evidence
+explanatori power
+fact
+falsifiability
+feminist method
+funct contextualism
+ignoramu et ignorabimus
+induct reasoning
+intertheoret reduction
+inquiry
+nature
+objectivity
+observation
+paradigm
+problem of induction
+scientif law
+scientif method
+scientif revolution
+scientif theory
+testability
+theori choice
+theory-ladenness
+underdetermination
+un of science
+metatheoryof science
+coherentism
+confirm holism
+construct empiricism
+construct realism
+constructivist epistemology
+contextualism
+conventionalism
+deductive-nomolog model
+hypothetico-deduct model
+inductionism
+epistemolog anarchism
+evolutionism
+fallibilism
+foundationalism
+instrumentalism
+pragmatism
+model-depend realism
+naturalism
+physicalism
+positivism / reductionism / determinism
+rationalism / empiricism
+receiv view / semant view of theories
+scientif realism / anti-realism
+scientif essentialism
+scientif formalism
+scientif skepticism
+scientism
+structuralism
+uniformitarianism
+vitalism
+philosophi of
+physics
+therm and statistical
+motion
+chemistry
+biology
+geography
+soci science
+technology
+engineering
+artifici intelligence
+comput science
+information
+mind
+psychiatry
+psychology
+perception
+spac and time
+rel topics
+alchemy
+critic of science
+descript science
+epistemology
+faith and rationality
+hard and soft science
+histori and philosophi of science
+histori of science
+histori of evolutionari thought
+logic
+metaphysics
+norm science
+pseudoscience
+relationship between religion and science
+rhetor of science
+sci studies
+sociolog of scientif knowledge
+sociolog of scientif ignorance
+philosoph of scienc by eraancient
+plato
+aristotle
+stoicism
+epicureans
+medieval
+averroes
+avicenna
+rog bacon
+william of ockham
+hugh of saint victor
+dominicu gundissalinus
+robert kilwardby
+earli modern
+fr bacon
+thoma hobbes
+rené descartes
+galileo galilei
+pierr gassendi
+isaac newton
+david hume
+l modern
+immanuel kant
+friedrich schelling
+william whewell
+august comte
+john stuart mill
+herbert spencer
+wilhelm wundt
+charl sander peirce
+wilhelm windelband
+henri poincaré
+pierr duhem
+rudolf steiner
+karl pearson
+contemporary
+alfr north whitehead
+bertrand russell
+albert einstein
+otto neurath
+c. d. broad
+michael polanyi
+han reichenbach
+rudolf carnap
+karl popper
+carl gustav hempel
+w. v. o. quine
+thoma kuhn
+imr lakatos
+paul feyerabend
+jürgen habermas
+ian hacking
+ba van fraassen
+larri laudan
+daniel dennett
+
+category
+ philosophi portal
+ sci portal
+
+vteglossari of scienc and engineering
+aerospac engineering
+agriculture
+archaeology
+architecture
+artifici intelligence
+astronomy
+biology
+botany
+calculus
+chemistry
+civil engineering
+clin research
+comput hardware
+comput science
+ecology
+economics
+electr and electron engineering
+engineering
+entomology
+environment science
+evolutionari biology
+genetics
+geography
+geology
+ichthyology
+machin vision
+mathematics
+mechan engineering
+medicine
+meteorology
+nanotechnology
+ornithology
+physics
+prob and statistics
+psychiatry
+robotics
+scientif naming
+structur engineering
+virology
+
+vtemajor industriesnatur sectorbioticagriculture
+ar farming
+cereals
+legumes
+vegetables
+fib crops
+oilseeds
+sugar
+tobacco
+perman crops
+appl et al.
+berries
+citrus
+ston fruits
+trop fruit
+viticulture
+cocoa
+coffee
+tea
+nuts
+olives
+medicin plants
+spices
+horticulture
+flowers
+seeds
+anim husbandry
+beef cattle
+dairi farming
+fur farming
+horses
+oth livestock
+pig
+wool
+poultry
+beekeeping
+cochineal
+lac
+silk
+hunting
+fur trapping
+forestry
+silviculture
+bamboo
+logging
+firewood
+rattan
+tre tapping
+frankincense
+gum arabic
+gutta-percha
+mapl syrup
+mastic
+natur rubber
+palm sugar, syrup, & wine
+pin resin
+wild mushrooms
+fungiculture
+truffles
+aquatic
+fishing
+anchovies
+herring
+sardines
+cod
+haddock
+pollock
+mackerel
+shark
+swordfish
+tuna
+crabs
+lobsters
+sea urchins
+squid
+whaling
+aquaculture
+carp
+catfish
+tilapia
+abalone
+mussels
+oysters
+pearls
+microalgae
+seaweed
+both
+clams
+sea cucumbers
+scallops
+salmon
+shrimp
+geological
+fossil fuels
+coal
+peat
+natur gas
+oil shale
+petroleum
+tar sands
+min of ores
+aluminum
+copper
+iron
+gold
+silver
+palladium
+platinum
+lithium
+rare-earth metals
+uranium
+oth minerals
+gemstones
+phosphorus
+potash
+salt
+sulfur
+quarrying
+gravel
+sand
+chalk
+clay
+gypsum
+limestone
+dimens stone
+granite
+marble
+industri sectormanufacturinglight industry
+food
+anim feed
+baking
+canning
+dairi products
+flour
+meat
+prepared
+preserved
+sweets
+veget oils
+beverages
+beer
+bottl water
+liquor
+soft drinks
+wine
+textiles
+carding
+dyeing
+prints
+spinning
+weaving
+carpets
+lace
+linens
+rope
+clothing
+accessories
+dressmaking
+furs
+hatmaking
+sewing
+shoemaking
+tailoring
+printing
+bookbinding
+embossing
+engraving
+secure
+typesetting
+media reproduction
+cassett tapes
+phonographs
+opt discs
+met fabrication
+boilermaking
+builders' & household hardware
+cutlery
+gunsmithing
+locksmithing
+machining
+oth smithing
+powd metallurgy
+prefabrication
+surfac finishing
+oth fabrication
+3d printing
+blow molding
+drawing
+extrusion
+glassblowing
+inject moulding
+pottery
+sintering
+stonemasonry
+woodworking
+furniture
+oth goods
+baggage
+bicycles
+jewellery
+med supplies
+mus instruments
+offic supplies
+outdoor & sport equipment
+person protect equipment
+toys
+electr & optical
+electronics
+components
+circuit boards
+semiconductors
+computers
+comput systems
+part & peripherals
+blank storag media
+commun equipment
+mobil phones
+network infrastructure
+consum electronics
+televisions
+video game consoles
+instrumentation
+clock & watches
+gp devices
+scientif instruments
+med imag systems
+opt instruments
+cameras
+gun & spot scopes
+las construction
+len grinding
+microscopes
+telescopes
+electr equipment
+batteries
+electr & fiber optic cables
+electr lighting
+electr motors
+hom appliances
+transformers
+chemicals
+co & oil refining
+coke
+diesel fuel
+fuel oil
+gasoline
+jet fuel
+kerosene
+propane
+miner oil
+paraffin wax
+petrochemicals
+petroleum jelly
+synthet oil
+asphalt
+tar
+commod chemicals
+fertilizers
+industri gases
+pigments
+pur elements
+speci chemicals
+adhesives
+agrochemicals
+aroma compounds
+clean products
+cosmetics
+explosives
+fireworks
+paint & inks
+perfumes
+soap
+toiletries
+fin chemicals
+pharmaceuticals
+antibiotics
+blood products
+chem & hormon contraceptives
+gener drugs
+illeg drugs
+supplements
+vaccines
+materials
+leather
+lim & deliming
+tanning
+curri & oiling
+wood
+drying
+sawmilling
+engineered
+lumber
+composite
+paper
+sizing
+cardboard
+pulp
+tissue
+rubber
+tires
+vulcan rubber
+plastics
+commodity
+engineered
+specialty
+pellets
+synthet fibers
+thermoplast & thermosets
+glass
+borosilicate
+fus quartz
+soda-lime
+float glass
+glass fiber
+glass wool & fiberglass
+safeti glass
+ceramics
+brick
+earthenware
+porcelain
+refractory
+tile
+cement
+mortar
+plaster
+ready-mix concrete
+oth mineral
+abrasives
+carbon fiber & advanc materials
+miner wool
+synthet gems
+met refining
+iron
+aluminum
+copper
+alloys
+steel
+form metal
+rolled
+forged
+cast metal
+heavi industry
+machinery
+conveyors
+heavy
+hydraulic
+machin tools
+pow & wind turbines
+automobiles
+oth heavi vehicles
+aerospac & space
+rail vehicles
+ship & offshor platforms
+weapons
+utilities
+power
+electric
+ga distribution
+renewable
+water
+sewage
+wast management
+collection
+dumping
+hazardous
+recycling
+remediation
+telecom networks
+c tv
+internet
+mobile
+satellite
+telephone
+construction
+buildings
+commercial
+industrial
+residential
+civil engineering
+bridges
+railways
+roads
+tunnels
+canals
+dams
+dredging
+harbors
+specialti trades
+cabinetry
+demolition
+electr wiring
+elevators
+hvac
+paint and decorating
+plumbing
+sit preparation
+servic sectorsales
+retail
+car dealership
+consum goods
+gener store
+groceri store
+depart store
+mail order
+onlin shopping
+specialti store
+wholesale
+auction
+brokerage
+distribution
+transport & storage
+cargo
+air cargo
+intermodal
+mail
+mov company
+rail
+trucking
+passeng transport
+airlines
+car rentals
+passeng rail
+ridesharing
+taxicabs
+warehousing
+self storage
+hospitality
+foodservice
+drink service
+catering
+cafés
+fast food
+food delivery
+restaurants
+teahouses
+hotels
+asset management
+financi services
+banking
+credit
+financi advice
+hold company
+leasing
+money transfer
+pay cards
+risk management
+securities
+insurance
+health insurance
+lif insurance
+pens funding
+properti insurance
+reinsurance
+r estate
+hous rental
+properti management
+r estat brokerage
+professional
+accounting
+assurance
+audit
+bookkeeping
+tax advice
+architectur & engineering
+inspection
+surveying
+physical, product, & system testing
+design
+fashion
+interior
+product
+leg services
+management
+consulting
+publ relations
+marketing
+advertising
+healthcare
+medicine
+dentist offices
+hospitals
+nursing
+residenti care
+veterinari medicine
+entertain & leisure
+gambling
+online
+sport
+venues
+arcades
+amus parks
+fairgrounds
+nightclubs
+other
+administrative
+custom service
+renting
+staffing
+priv investig & security
+maintenance
+janitors
+landscaping
+repairs
+person services
+beauty
+dri cleaning
+funeral
+maid service
+pet care
+sex
+poverty
+travel
+busi travel
+cruis lines
+tourism
+inform sectorpublish & mass media
+written
+books
+periodicals
+software
+audio-visual
+film
+music
+video games
+broadcasting
+news
+radio
+television
+internet
+hosting
+soci networks
+streaming
+websites
+education
+primary
+secondary
+tertiary
+voc school
+university
+testing
+tutoring
+other
+creative
+language
+research and development
+bas research
+relatedclassif standards
+production-based
+anzsic
+isic
+nace
+naics
+sic
+uksic
+market-based
+gics
+icb
+trbc
+input & outputs
+externalities
+community
+crime
+culture
+pollution
+well-being
+funding
+goods
+commodities
+final
+intermediate
+raw material
+innovation
+primari inputs
+labor
+natur resources
+phys capital
+services
+technology
+organization
+centralization
+cartel
+conglomerate
+horizont integration
+merg and acquisitions
+monopoly
+monopsony
+vert integration
+decentralization
+enforc breakup
+freelancing
+homesteading
+outsourcing
+putting-out system
+spinning-off
+temporari work
+ownership
+cooperative
+joint-stock company
+nationalization
+nonprofit organization
+partnership
+privatization
+sol proprietorship
+state-own enterprise
+
+ category
+ commons
+ outline
+
+author control 
+bnf: cb11950236f (data)
+gnd: 4137304-2
+lccn: sh85043176
+ma: 127413603
+nara: 10639710
+ndl: 00566144
+
+
+
+
+
+retriev from "https://en.wikipedia.org/w/index.php?title=engineering&oldid=1008501272"
+categories: engineeringengin occupationsethicsphilosophi of sciencemain topic articleshidden categories: webarch templat wayback linkscs1 maint: archiv copi as titlewikipedia indefinit semi-protect pagesus mdi date from januari 2020articl with short descriptionshort descript match wikidataus american english from januari 2020all wikipedia articl written in american englisharticl need addit refer from june 2020all articl need addit referencesarticl that may contain origin research from juli 2010all articl that may contain origin researchal articl with unsourc statementsarticl with unsourc statement from march 2013articl with unsourc statement from august 2013articl with unsourc statement from novemb 2011articl with encyclopædia britannica linkswikipedia articl with bnf identifierswikipedia articl with gnd identifierswikipedia articl with lccn identifierswikipedia articl with ma identifierswikipedia articl with nara identifierswikipedia articl with ndl identifiers
+
+
+
+
+
+
+navig menu
+
+
+
+
+person tools
+
+
+not log intalkcontributionscr accountlog in
+
+
+
+
+
+
+namespaces
+
+
+articletalk
+
+
+
+
+
+
+variants
+
+
+
+
+
+
+
+
+
+
+views
+
+
+readview sourceview history
+
+
+
+
+
+
+more
+
+
+
+
+
+
+
+search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentscurr eventsrandom articleabout wikipediacontact usdonate
+
+
+
+
+
+contribute
+
+
+helplearn to editcommun portalrec changesupload file
+
+
+
+
+
+tools
+
+
+what link hererel changesupload filespeci pagesperman linkpag informationcit thi pagewikidata item
+
+
+
+
+
+print/export
+
+
+download as pdfprintabl version
+
+
+
+
+
+in other projects
+
+
+wikimedia commonswikiquote
+
+
+
+
+
+languages
+
+
+afrikaansalemannischአማርኛالعربيةaragonésঅসমীয়াasturianuazərbaycancaتۆرکجهবাংলাbân-lâm-gúбашҡортсабеларускаябеларуская (тарашкевіца)‎bikol centralбългарскиboarischbosanskibrezhonegcatalàcebuanočeštinacymraegdanskdeutscheestiελληνικάemiliàn e rumagnòlespañolesperantoestremeñueuskaraفارسیfrançaisfryskfurlangaeilgegaelggàidhliggalego贛語gĩkũyũગુજરાતી客家語/hak-kâ-ngî한국어hawaiʻiհայերենहिन्दीhrvatskiidoilokanoবিষ্ণুপ্রিয়া মণিপুরীbahasa indonesiainterlinguainterlingueᐃᓄᒃᑎᑐᑦ/inuktitutisixhosaíslenskaitalianoעבריתjawakalaallisutಕನ್ನಡkapampanganქართულიқазақшаkiswahilikreyòl ayisyenkriyòl gwiyannenkurdîladinoລາວlatinalatviešulietuviųlimburgslingua franca novalivvinkarjalalumbaartmagyarमैथिलीмакедонскиmalagasyമലയാളംमराठीمصرىbahasa melayumirandésмонголမြန်မာဘာသာnederlandsनेपालीनेपाल भाषा日本語napulitanoнохчийнnorsk bokmålnorsk nynorsknovialoccitanଓଡ଼ିଆoromoooʻzbekcha/ўзбекчаਪੰਜਾਬੀپنجابیپښتوpatoisភាសាខ្មែរpolskiportuguêsromânăрусиньскыйрусскийgagana samoaसंस्कृतम्sarduscotsshqipsicilianuසිංහලsimpl englishسنڌيslovenčinaslovenščinaکوردیсрпски / srpskisrpskohrvatski / српскохрватскиsundasuomisvenskatagalogதமிழ்татарча/tatarçaతెలుగుtetunไทยትግርኛтоҷикӣtshivendaತುಳುtürkçetürkmençeукраїнськаاردوvènetotiếng việtvolapükwinaray吴语xitsongaייִדיש粵語zazakižemaitėška中文
+edit links
+
+
+
+
+
+
+ thi page wa last edit on 23 februari 2021, at 16:51 (utc).
+text is avail under the creativ common attribution-sharealik license;
+addit term may apply. by use thi site, you agre to the term of use and privaci policy. wikipedia® is a regist trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privaci policy
+about wikipedia
+disclaimers
+contact wikipedia
+mobil view
+developers
+statistics
+cooki statement
+
+
+
+
+
+
+
+
+
+
+ 

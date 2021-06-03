@@ -1,0 +1,955 @@
+
+
+
+data mine - wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data mining
+
+from wikipedia, the free encyclopedia
+
+
+
+jump to navigation
+jump to search
+find pattern in larg data set use complex comput methods
+part of a seri onmachin learninganddata mining
+problems
+classification
+clustering
+regression
+anomali detection
+automl
+associ rules
+reinforc learning
+structur prediction
+featur engineering
+featur learning
+onlin learning
+semi-supervis learning
+unsupervis learning
+learn to rank
+grammar induction
+
+
+supervis learning(classification • regression) 
+decis trees
+ensembles
+bagging
+boosting
+random forest
+k-nn
+linear regression
+na bayes
+artifici neural networks
+logist regression
+perceptron
+relev vector machin (rvm)
+support vector machin (svm)
+
+
+clustering
+birch
+cure
+hierarchical
+k-means
+expectation–maxim (em)
+dbscan
+optics
+mean-shift
+
+
+dimension reduction
+factor analysis
+cca
+ica
+lda
+nmf
+pca
+pgd
+t-sne
+
+
+structur prediction
+graph models
+bay net
+condit random field
+hidden markov
+
+
+anomali detection
+k-nn
+loc outlier factor
+
+
+artifici neural network
+autoencoder
+cognit computing
+deep learning
+deepdream
+multilay perceptron
+rnn
+lstm
+gru
+esn
+restrict boltzmann machine
+gan
+som
+convolut neural network
+u-net
+transformer
+spik neural network
+memtransistor
+electrochem ram (ecram)
+
+
+reinforc learning
+q-learning
+sarsa
+tempor differ (td)
+
+
+theory
+bias–vari tradeoff
+comput learn theory
+empir risk minimization
+occam learning
+pac learning
+statist learning
+vc theory
+
+
+machine-learn venues
+neurips
+icml
+ml
+jmlr
+arxiv:cs.lg
+
+
+rel articles
+glossari of artifici intelligence
+list of dataset for machine-learn research
+outlin of machin learning
+
+vte
+data mine is a process of extract and discov pattern in larg data set involv method at the intersect of machin learning, statistics, and databas systems.[1] data mine is an interdisciplinari subfield of comput scienc and statist with an overal goal to extract inform (with intellig methods) from a data set and transform the inform into a comprehens structur for further use.[1][2][3][4] data mine is the analysi step of the "knowledg discoveri in databases" process, or kdd.[5] asid from the raw analysi step, it also involv databas and data manag aspects, data pre-processing, model and infer considerations, interesting metrics, complex considerations, post-process of discov structures, visualization, and onlin updating.[1]
+th term "data mining" is a misnomer, becaus the goal is the extract of pattern and knowledg from larg amount of data, not the extract (mining) of data itself.[6] it also is a buzzword[7] and is frequent appli to ani form of large-scal data or inform process (collection, extraction, warehousing, analysis, and statistics) as well as ani applic of comput decis support system, includ artifici intellig (e.g., machin learning) and busi intelligence. the book data mining: practic machin learn tool and techniqu with java[8] (which cover mostli machin learn material) wa origin to be name just practic machin learning, and the term data mine wa onli ad for market reasons.[9] often the more gener term (larg scale) data analysi and analytics—or, when refer to actual methods, artifici intellig and machin learning—ar more appropriate.
+th actual data mine task is the semi-automat or automat analysi of larg quantiti of data to extract previous unknown, interest pattern such as group of data record (cluster analysis), unusu record (anomali detection), and depend (associ rule mining, sequenti pattern mining). thi usual involv use databas techniqu such as spatial indices. these pattern can then be seen as a kind of summari of the input data, and may be use in further analysi or, for example, in machin learn and predict analytics. for example, the data mine step might identifi multipl group in the data, which can then be use to obtain more accur predict result by a decis support system. neither the data collection, data preparation, nor result interpret and report is part of the data mine step, but do belong to the overal kdd process as addit steps.
+th differ between data analysi and data mine is that data analysi is use to test model and hypothes on the dataset, e.g., analyz the effect of a market campaign, regardless of the amount of data; in contrast, data mine use machin learn and statist model to uncov clandestin or hidden pattern in a larg volum of data.[10]
+th relat term data dredging, data fishing, and data snoop refer to the use of data mine method to sampl part of a larger popul data set that are (or may be) too small for reliabl statist infer to be made about the valid of ani pattern discovered. these method can, however, be use in creat new hypothes to test against the larger data populations.
+
+contents
+
+1 etymology
+2 background
+3 process
+
+3.1 pre-processing
+3.2 data mining
+3.3 result validation
+
+
+4 research
+5 standards
+6 notabl uses
+7 privaci concern and ethics
+
+7.1 situat in europe
+7.2 situat in the unit states
+
+
+8 copyright law
+
+8.1 situat in europe
+8.2 situat in the unit states
+
+
+9 software
+
+9.1 free open-sourc data mine softwar and applications
+9.2 proprietari data-min softwar and applications
+
+
+10 see also
+11 references
+12 further reading
+13 extern links
+
+
+etymology[edit]
+in the 1960s, statistician and economist use term like data fish or data dredg to refer to what they consid the bad practic of analyz data without an a-priori hypothesis. the term "data mining" wa use in a similarli critic way by economist michael lovel in an articl publish in the review of econom studi in 1983.[11][12] lovel indic that the practic "masquerad under a varieti of aliases, rang from "experimentation" (positive) to "fishing" or "snooping" (negative).
+th term data mine appear around 1990 in the databas community, gener with posit connotations. for a short time in 1980s, a phrase "databas mining"™, wa used, but sinc it wa trademark by hnc, a san diego-bas company, to pitch their databas mine workstation;[13] research consequ turn to data mining. other term use includ data archaeology, inform harvesting, inform discovery, knowledg extraction, etc. gregori piatetsky-shapiro coin the term "knowledg discoveri in databases" for the first workshop on the same topic (kdd-1989) and thi term becam more popular in ai and machin learn community. however, the term data mine becam more popular in the busi and press communities.[14] currently, the term data mine and knowledg discoveri are use interchangeably.
+in the academ community, the major forum for research start in 1995 when the first intern confer on data mine and knowledg discoveri (kdd-95) wa start in montreal under aaai sponsorship. it wa co-chair by usama fayyad and ramasami uthurusamy. a year later, in 1996, usama fayyad launch the journal by kluwer call data mine and knowledg discoveri as it found editor-in-chief. later he start the sigkdd newslett sigkdd explorations.[15] the kdd intern confer becam the primari highest qualiti confer in data mine with an accept rate of research paper submiss below 18%. the journal data mine and knowledg discoveri is the primari research journal of the field.
+
+background[edit]
+th manual extract of pattern from data ha occur for centuries. earli method of identifi pattern in data includ bayes' theorem (1700s) and regress analysi (1800s). the proliferation, ubiqu and increas power of comput technolog have dramat increas data collection, storage, and manipul ability. as data set have grown in size and complexity, direct "hands-on" data analysi ha increasingli been augment with indirect, autom data processing, aid by other discoveri in comput science, special in the field of machin learning, such as neural networks, cluster analysis, genet algorithm (1950s), decis tree and decis rule (1960s), and support vector machin (1990s). data mine is the process of appli these method with the intent of uncov hidden patterns.[16] in larg data sets. it bridg the gap from appli statist and artifici intellig (which usual provid the mathemat background) to databas manag by exploit the way data is store and index in databas to execut the actual learn and discoveri algorithm more efficiently, allow such method to be appli to ever-larg data sets.
+
+process[edit]
+th knowledg discoveri in databas (kdd) process is commonli defin with the stages:
+
+selection
+pre-processing
+transformation
+data mining
+interpretation/evaluation.[5]
+it exists, however, in mani variat on thi theme, such as the cross-industri standard process for data mine (crisp-dm) which defin six phases:
+
+busi understanding
+data understanding
+data preparation
+modeling
+evaluation
+deployment
+or a simplifi process such as (1) pre-processing, (2) data mining, and (3) result validation.
+pol conduct in 2002, 2004, 2007 and 2014 show that the crisp-dm methodolog is the lead methodolog use by data miners.[17] the onli other data mine standard name in these poll wa semma. however, 3–4 time as mani peopl report use crisp-dm. sever team of research have publish review of data mine process models,[18] and azevedo and santo conduct a comparison of crisp-dm and semma in 2008.[19]
+
+pre-processing[edit]
+befor data mine algorithm can be used, a target data set must be assembled. as data mine can onli uncov pattern actual present in the data, the target data set must be larg enough to contain these pattern while remain concis enough to be mine within an accept time limit. a common sourc for data is a data mart or data warehouse. pre-process is essenti to analyz the multivari data set befor data mining. the target set is then cleaned. data clean remov the observ contain nois and those with miss data.
+
+data mining[edit]
+data mine involv six common class of tasks:[5]
+
+anomali detect (outlier/change/devi detection) – the identif of unusu data records, that might be interest or data error that requir further investigation.
+associ rule learn (depend modeling) – search for relationship between variables. for example, a supermarket might gather data on custom purchas habits. use associ rule learning, the supermarket can determin which product are frequent bought togeth and use thi inform for market purposes. thi is sometim refer to as market basket analysis.
+clust – is the task of discov group and structur in the data that are in some way or anoth "similar", without use known structur in the data.
+classif – is the task of gener known structur to appli to new data. for example, an e-mail program might attempt to classifi an e-mail as "legitimate" or as "spam".
+regress – attempt to find a function that model the data with the least error that is, for estim the relationship among data or datasets.
+summar – provid a more compact represent of the data set, includ visual and report generation.
+result validation[edit]
+ an exampl of data produc by data dredg through a bot oper by statistician tyler vigen, appar show a close link between the best word win a spell bee competit and the number of peopl in the unit state kill by venom spiders. the similar in trend is obvious a coincidence.thi section is miss inform about non-classif task in data mining. it onli cover machin learning. pleas expand the section to includ thi information. further detail may exist on the talk page. (septemb 2011)
+data mine can unintent be misused, and can then produc result that appear to be significant; but which do not actual predict futur behavior and cannot be reproduc on a new sampl of data and bear littl use. often thi result from investig too mani hypothes and not perform proper statist hypothesi testing. a simpl version of thi problem in machin learn is known as overfitting, but the same problem can aris at differ phase of the process and thu a train/test split—when applic at all—may not be suffici to prevent thi from happening.[20]
+th final step of knowledg discoveri from data is to verifi that the pattern produc by the data mine algorithm occur in the wider data set. not all pattern found by data mine algorithm are necessarili valid. it is common for data mine algorithm to find pattern in the train set which are not present in the gener data set. thi is call overfitting. to overcom this, the evalu use a test set of data on which the data mine algorithm wa not trained. the learn pattern are appli to thi test set, and the result output is compar to the desir output. for example, a data mine algorithm tri to distinguish "spam" from "legitimate" email would be train on a train set of sampl e-mails. onc trained, the learn pattern would be appli to the test set of e-mail on which it had not been trained. the accuraci of the pattern can then be measur from how mani e-mail they correctli classify. sever statist method may be use to evalu the algorithm, such as roc curves.
+if the learn pattern do not meet the desir standards, subsequ it is necessari to re-evalu and chang the pre-process and data mine steps. if the learn pattern do meet the desir standards, then the final step is to interpret the learn pattern and turn them into knowledge.
+
+research[edit]
+th premier profession bodi in the field is the associ for comput machinery' (acm) special interest group (sig) on knowledg discoveri and data mine (sigkdd).[21][22] sinc 1989, thi acm sig ha host an annual intern confer and publish it proceedings,[23] and sinc 1999 it ha publish a biannual academ journal titl "sigkdd explorations".[24]
+comput scienc confer on data mine include:
+
+cikm confer – acm confer on inform and knowledg management
+european confer on machin learn and principl and practic of knowledg discoveri in databases
+kdd confer – acm sigkdd confer on knowledg discoveri and data mining
+data mine topic are also present on mani data management/databas confer such as the icd conference, sigmod confer and intern confer on veri larg data bases
+
+standards[edit]
+ther have been some effort to defin standard for the data mine process, for example, the 1999 european cross industri standard process for data mine (crisp-dm 1.0) and the 2004 java data mine standard (jdm 1.0). develop on successor to these process (crisp-dm 2.0 and jdm 2.0) wa activ in 2006 but ha stall since. jdm 2.0 wa withdrawn without reach a final draft.
+for exchang the extract models—in particular for use in predict analytics—th key standard is the predict model markup languag (pmml), which is an xml-base languag develop by the data mine group (dmg) and support as exchang format by mani data mine applications. as the name suggests, it onli cover predict models, a particular data mine task of high import to busi applications. however, extens to cover (for example) subspac cluster have been propos independ of the dmg.[25]
+
+notabl uses[edit]
+main article: exampl of data mining
+se also: category:appli data mining
+data mine is use wherev there is digit data avail today. notabl exampl of data mine can be found throughout business, medicine, science, and surveillance.
+
+privaci concern and ethics[edit]
+whil the term "data mining" itself may have no ethic implications, it is often associ with the mine of inform in relat to peoples' behavior (ethic and otherwise).[26]
+th way in which data mine can be use can in some case and context rais question regard privacy, legality, and ethics.[27] in particular, data mine govern or commerci data set for nation secur or law enforc purposes, such as in the total inform awar program or in advise, ha rais privaci concerns.[28][29]
+data mine requir data prepar which uncov inform or pattern which compromis confidenti and privaci obligations. a common way for thi to occur is through data aggregation. data aggreg involv combin data togeth (possibl from variou sources) in a way that facilit analysi (but that also might make identif of private, individual-level data deduc or otherwis apparent).[30] thi is not data mine per se, but a result of the prepar of data before—and for the purpos of—th analysis. the threat to an individual' privaci come into play when the data, onc compiled, caus the data miner, or anyon who ha access to the newli compil data set, to be abl to identifi specif individuals, especi when the data were origin anonymous.[31][32][33]
+it is recommended[accord to whom?] to be awar of the follow befor data are collected:[30]
+
+th purpos of the data collect and ani (known) data mine projects;
+how the data will be used;
+who will be abl to mine the data and use the data and their derivatives;
+th statu of secur surround access to the data;
+how collect data can be updated.
+data may also be modifi so as to becom anonymous, so that individu may not readili be identified.[30] however, even "anonymized" data set can potenti contain enough inform to allow identif of individuals, as occur when journalist were abl to find sever individu base on a set of search histori that were inadvert releas by aol.[34]
+th inadvert revel of person identifi inform lead to the provid violat fair inform practices. thi indiscret can caus financial,
+emotional, or bodili harm to the indic individual. in one instanc of privaci violation, the patron of walgreen file a lawsuit against the compani in 2011 for selling
+prescript inform to data mine compani who in turn provid the data
+to pharmaceut companies.[35]
+
+situ in europe[edit]
+europ ha rather strong privaci laws, and effort are underway to further strengthen the right of the consumers. however, the u.s.–e.u. safe harbor principles, develop between 1998 and 2000, current effect expos european user to privaci exploit by u.s. companies. as a consequ of edward snowden' global surveil disclosure, there ha been increas discuss to revok thi agreement, as in particular the data will be fulli expos to the nation secur agency, and attempt to reach an agreement with the unit state have failed.[36]
+in the unit kingdom in particular there have been case of corpor use data mine as a way to target certain group of custom forc them to pay unfairli high prices. these group tend to be peopl of lower socio-econom statu who are not savvi to the way they can be exploit in digit market places.[37]
+
+situ in the unit states[edit]
+in the unit states, privaci concern have been address by the us congress via the passag of regulatori control such as the health insur portabl and account act (hipaa). the hipaa requir individu to give their "inform consent" regard inform they provid and it intend present and futur uses. accord to an articl in biotech busi week, "'[i]n practice, hipaa may not offer ani greater protect than the longstand regul in the research arena,' say the aahc. more importantly, the rule' goal of protect through inform consent is approach a level of incomprehens to averag individuals."[38] thi underscor the necess for data anonym in data aggreg and mine practices.
+u.s. inform privaci legisl such as hipaa and the famili educ right and privaci act (ferpa) appli onli to the specif area that each such law addresses. the use of data mine by the major of busi in the u.s. is not control by ani legislation.
+
+copyright law[edit]
+situ in europe[edit]
+und european copyright and databas laws, the mine of in-copyright work (such as by web mining) without the permiss of the copyright owner is not legal. where a databas is pure data in europe, it may be that there is no copyright—but databas right may exist so data mine becom subject to intellectu properti owners' right that are protect by the databas directive. on the recommend of the hargreav review, thi led to the uk govern to amend it copyright law in 2014 to allow content mine as a limit and exception.[39] the uk wa the second countri in the world to do so after japan, which introduc an except in 2009 for data mining. however, due to the restrict of the inform societi direct (2001), the uk except onli allow content mine for non-commerci purposes. uk copyright law also doe not allow thi provis to be overridden by contractu term and conditions. 
+the european commiss facilit stakehold discuss on text and data mine in 2013, under the titl of licenc for europe.[40] the focu on the solut to thi legal issue, such as licens rather than limit and exceptions, led to repres of universities, researchers, libraries, civil societi group and open access publish to leav the stakehold dialogu in may 2013.[41]
+
+situat in the unit states[edit]
+u copyright law, and in particular it provis for fair use, uphold the legal of content mine in america, and other fair use countri such as israel, taiwan and south korea. as content mine is transformative, that is it doe not supplant the origin work, it is view as be law under fair use. for example, as part of the googl book settlement the presid judg on the case rule that google' digit project of in-copyright book wa lawful, in part becaus of the transform use that the digit project displayed—on be text and data mining.[42]
+
+software[edit]
+se also: category:data mine and machin learn software
+fre open-sourc data mine softwar and applications[edit]
+th follow applic are avail under free/open-sourc licenses. public access to applic sourc code is also available.
+
+carrot2: text and search result cluster framework.
+chemicalize.org: a chemic structur miner and web search engine.
+elki: a univers research project with advanc cluster analysi and outlier detect method written in the java language.
+gate: a natur languag process and languag engin tool.
+knime: the konstanz inform miner, a user-friendli and comprehens data analyt framework.
+mass onlin analysi (moa): a real-tim big data stream mine with concept drift tool in the java program language.
+mepx - cross-platform tool for regress and classif problem base on a genet program variant.
+ml-flex: a softwar packag that enabl user to integr with third-parti machine-learn packag written in ani program language, execut classif analys in parallel across multipl comput nodes, and produc html report of classif results.
+mlpack: a collect of ready-to-us machin learn algorithm written in the c++ language.
+nltk (natur languag toolkit): a suit of librari and program for symbol and statist natur languag process (nlp) for the python language.
+opennn: open neural network library.
+orange: a component-bas data mine and machin learn softwar suit written in the python language.
+pspp: data mine and statist softwar under the gnu project similar to spss
+r: a program languag and softwar environ for statist computing, data mining, and graphics. it is part of the gnu project.
+scikit-learn is an open-sourc machin learn librari for the python program language
+torch: an open-sourc deep learn librari for the lua program languag and scientif comput framework with wide support for machin learn algorithms.
+uima: the uima (unstructur inform manag architecture) is a compon framework for analyz unstructur content such as text, audio and video – origin develop by ibm.
+weka: a suit of machin learn softwar applic written in the java program language.
+proprietari data-min softwar and applications[edit]
+th follow applic are avail under proprietari licenses.
+
+angoss knowledgestudio: data mine tool
+lionsolver: an integr softwar applic for data mining, busi intelligence, and model that implement the learn and intellig optim (lion) approach.
+megaput intelligence: data and text mine softwar is call polyanalyst.
+microsoft analysi services: data mine softwar provid by microsoft.
+netowl: suit of multilingu text and entiti analyt product that enabl data mining.
+oracl data mining: data mine softwar by oracl corporation.
+pseven: platform for autom of engin simul and analysis, multidisciplinari optim and data mine provid by datadvance.
+qlucor omic explorer: data mine software.
+rapidminer: an environ for machin learn and data mine experiments.
+sa enterpris miner: data mine softwar provid by the sa institute.
+spss modeler: data mine softwar provid by ibm.
+statistica data miner: data mine softwar provid by statsoft.
+tanagra: visualisation-ori data mine software, also for teaching.
+vertica: data mine softwar provid by hewlett-packard.
+googl cloud platform: autom custom ml model manag by google.
+amazon sagemaker: manag servic provid by amazon for creat & productionis custom ml models.
+se also[edit]
+methods
+
+ag mining
+anomaly/outlier/chang detection
+associ rule learning
+bayesian networks
+classification
+clust analysis
+decis trees
+ensembl learning
+factor analysis
+genet algorithms
+intent mining
+learn classifi system
+multilinear subspac learning
+neur networks
+regress analysis
+sequ mining
+structur data analysis
+support vector machines
+text mining
+tim seri analysis
+appl domains
+
+analytics
+behavior informatics
+big data
+bioinformatics
+busi intelligence
+data analysis
+data warehouse
+decis support system
+domain driven data mining
+drug discovery
+exploratori data analysis
+predict analytics
+web mining
+appl examples
+main article: exampl of data mining
+se also: category:appli data mining
+
+automat number plate recognit in the unit kingdom
+custom analytics
+educ data mining
+n secur agency
+quantit structure–act relationship
+surveil / mass surveil (e.g., stellar wind)
+rel topics
+for more inform about extract inform out of data (a oppos to analyz data) , see:
+
+
+data integration
+data transformation
+electron discovery
+inform extraction
+inform integration
+named-ent recognition
+profil (inform science)
+psychometrics
+soci media mining
+surveil capitalism
+web scraping
+oth resources
+intern journal of data wareh and mining
+references[edit]
+
+
+^ a b c "data mine curriculum". acm sigkdd. 2006-04-30. retriev 2014-01-27.
+
+^ clifton, christoph (2010). "encyclopædia britannica: definit of data mining". retriev 2010-12-09.
+
+^ hastie, trevor; tibshirani, robert; friedman, jerom (2009). "the element of statist learning: data mining, inference, and prediction". archiv from the origin on 2009-11-10. retriev 2012-08-07.
+
+^ han, kamber, pei, jaiwei, micheline, jian (2011). data mining: concept and techniqu (3rd ed.). morgan kaufmann. isbn 978-0-12-381479-1.cs1 maint: multipl names: author list (link)
+
+^ a b c fayyad, usama; piatetsky-shapiro, gregory; smyth, padhraic (1996). "from data mine to knowledg discoveri in databases" (pdf). retriev 17 decemb 2008.
+
+^ han, jiawei; kamber, michelin (2001). data mining: concept and techniques. morgan kaufmann. p. 5. isbn 978-1-55860-489-6. thus, data mine should have been more appropri name "knowledg mine from data," which is unfortun somewhat long
+
+^ okairp 2005 fall conference, arizona state univers archiv 2014-02-01 at the wayback machine
+
+^ witten, ian h.; frank, eibe; hall, mark a. (2011). data mining: practic machin learn tool and techniqu (3 ed.). elsevier. isbn 978-0-12-374856-0.
+
+^ bouckaert, remco r.; frank, eibe; hall, mark a.; holmes, geoffrey; pfahringer, bernhard; reutemann, peter; witten, ian h. (2010). "weka experi with a java open-sourc project". journal of machin learn research. 11: 2533–2541. the origin title, "practic machin learning", wa changed ... the term "data mining" wa [added] primarili for market reasons.
+
+^ olson, d. l. (2007). data mine in busi services. servic business, 1(3), 181–193. doi:10.1007/s11628-006-0014-7
+
+^ lovell, michael c. (1983). "data mining". the review of econom and statistics. 65 (1): 1–12. doi:10.2307/1924403. jstor 1924403.
+
+^ charemza, wojciech w.; deadman, derek f. (1992). "data mining". new direct in econometr practice. aldershot: edward elgar. pp. 14–31. isbn 1-85278-461-x.
+
+^ mena, jesú (2011). machin learn forens for law enforcement, security, and intelligence. boca raton, fl: crc press (taylor & franci group). isbn 978-1-4398-6069-4.
+
+^ piatetsky-shapiro, gregory; parker, gari (2011). "lesson: data mining, and knowledg discovery: an introduction". introduct to data mining. kd nuggets. retriev 30 august 2012.
+
+^ fayyad, usama (15 june 1999). "first editori by editor-in-chief". sigkdd explorations. 13 (1): 102. doi:10.1145/2207243.2207269. s2cid 13314420. retriev 27 decemb 2010.
+
+^ kantardzic, mehm (2003). data mining: concepts, models, methods, and algorithms. john wiley & sons. isbn 978-0-471-22852-3. oclc 50055336.
+
+^ gregori piatetsky-shapiro (2002) kdnugget methodolog poll, gregori piatetsky-shapiro (2004) kdnugget methodolog poll, gregori piatetsky-shapiro (2007) kdnugget methodolog poll, gregori piatetsky-shapiro (2014) kdnugget methodolog poll
+
+^ lukasz kurgan and petr musilek: "a survey of knowledg discoveri and data mine process models". the knowledg engin review. volum 21 issu 1, march 2006, pp 1–24, cambridg univers press, new york, doi:10.1017/s0269888906000737
+
+^ azevedo, a. and santos, m. f. kdd, semma and crisp-dm: a parallel overview archiv 2013-01-09 at the wayback machine. in proceed of the iadi european confer on data mine 2008, pp 182–185.
+
+^ hawkins, dougla m (2004). "the problem of overfitting". journal of chemic inform and comput sciences. 44 (1): 1–12. doi:10.1021/ci0342472. pmid 14741005.
+
+^ "microsoft academ search: top confer in data mining". microsoft academ search.
+
+^ "googl scholar: top public - data mine & analysis". googl scholar.
+
+^ proceed archiv 2010-04-30 at the wayback machine, intern confer on knowledg discoveri and data mining, acm, new york.
+
+^ sigkdd explorations, acm, new york.
+
+^ günnemann, stephan; kremer, hardy; seidl, thoma (2011). "an extens of the pmml standard to subspac cluster models". proceed of the 2011 workshop on predict markup languag modeling. p. 48. doi:10.1145/2023598.2023605. isbn 978-1-4503-0837-3. s2cid 14967969.
+
+^ seltzer, william (2005). "the promis and pitfal of data mining: ethic issues" (pdf). asa section on govern statistics. american statist association.
+
+^ pitts, chip (15 march 2007). "the end of illeg domest spying? don't count on it". washington spectator. archiv from the origin on 2007-11-28.
+
+^ taipale, kim a. (15 decemb 2003). "data mine and domest security: connect the dot to make sens of data". columbia scienc and technolog law review. 5 (2). oclc 45263753. ssrn 546782.
+
+^ resig, john. "a framework for mine instant messag services" (pdf). retriev 16 march 2018.
+
+^ a b c think befor you dig: privaci implic of data mine & aggreg archiv 2008-12-17 at the wayback machine, nascio research brief, septemb 2004
+
+^ ohm, paul. "don't build a databas of ruin". harvard busi review.
+
+^ darwin bond-graham, iron cagebook – the logic end of facebook' patents, counterpunch.org, 2013.12.03
+
+^ darwin bond-graham, insid the tech industry' startup conference, counterpunch.org, 2013.09.11
+
+^ aol search data identifi individuals, securityfocus, august 2006
+
+^ kshetri, nir (2014). "big data׳ impact on privacy, secur and consum welfare" (pdf). telecommun policy. 38 (11): 1134–1145. doi:10.1016/j.telpol.2014.10.002.
+
+^ weiss, martin a.; archick, kristin (19 may 2016). "u.s.–e.u. data privacy: from safe harbor to privaci shield" (pdf). washington, d.c. congression research service. p. 6. r44257. retriev 9 april 2020. on octob 6, 2015, the cjeu ... issu a decis that invalid safe harbor (effect immediately), as current implemented.
+
+^ parker, george. “uk compani target for use big data to exploit customers.” subscrib to read | financi times, financi times, 30 sept. 2018, www.ft.com/content/5dbd98ca-c491-11e8-bc21-54264d1c4647. 
+
+^ biotech busi week editor (june 30, 2008); biomedicine; hipaa privaci rule imped biomed research, biotech busi week, retriev 17 novemb 2009 from lexisnexi academic
+
+^ uk research given data mine right under new uk copyright laws. archiv june 9, 2014, at the wayback machin out-law.com. retriev 14 novemb 2014
+
+^ "licenc for europ – structur stakehold dialogu 2013". european commission. retriev 14 novemb 2014.
+
+^ "text and data mining:it import and the need for chang in europe". associ of european research libraries. retriev 14 novemb 2014.
+
+^ "judg grant summari judgment in favor of googl book – a fair use victory". lexology.com. antonelli law ltd. retriev 14 novemb 2014.
+
+
+further reading[edit]
+
+cabena, peter; hadjnian, pablo; stadler, rolf; verhees, jaap; zanasi, alessandro (1997); discov data mining: from concept to implementation, prentic hall, isbn 0-13-743980-6
+m.s. chen, j. han, p.s. yu (1996) "data mining: an overview from a databas perspective". knowledg and data engineering, ieee transact on 8 (6), 866–883
+feldman, ronen; sanger, jame (2007); the text mine handbook, cambridg univers press, isbn 978-0-521-83657-9
+guo, yike; and grossman, robert (editors) (1999); high perform data mining: scale algorithms, applic and systems, kluwer academ publishers
+han, jiawei, michelin kamber, and jian pei. data mining: concept and techniques. morgan kaufmann, 2006.
+hastie, trevor, tibshirani, robert and friedman, jerom (2001); the element of statist learning: data mining, inference, and prediction, springer, isbn 0-387-95284-5
+liu, bing (2007, 2011); web data mining: explor hyperlinks, content and usag data, springer, isbn 3-540-37881-2
+murphy, chri (16 may 2011). "i data mine free speech?". informationweek: 12.
+nisbet, robert; elder, john; miner, gari (2009); handbook of statist analysi & data mine applications, academ press/elsevier, isbn 978-0-12-374765-5
+poncelet, pascal; masseglia, florent; and teisseire, maguelonn (editors) (octob 2007); "data mine patterns: new method and applications", inform scienc reference, isbn 978-1-59904-162-9
+tan, pang-ning; steinbach, michael; and kumar, vipin (2005); introduct to data mining, isbn 0-321-32136-7
+theodoridis, sergios; and koutroumbas, konstantino (2009); pattern recognition, 4th edition, academ press, isbn 978-1-59749-272-0
+weiss, sholom m.; and indurkhya, nitin (1998); predict data mining, morgan kaufmann
+witten, ian h.; frank, eibe; hall, mark a. (30 januari 2011). data mining: practic machin learn tool and techniqu (3 ed.). elsevier. isbn 978-0-12-374856-0. (see also free weka software)
+ye, nong (2003); the handbook of data mining, mahwah, nj: lawrenc erlbaum
+
+extern links[edit]
+
+
+
+wikimedia common ha media relat to data mining.
+
+knowledg discoveri softwar at curlie
+data mine tool vendor at curlie
+vtedata
+augmentation
+analysis
+archaeology
+cleansing
+collection
+compression
+corruption
+curation
+degradation
+editing
+etl
+extract
+transform
+load
+farming
+format management
+fusion
+integration
+integrity
+library
+loss
+management
+migration
+mining
+pre-processing
+preservation
+protect (privacy)
+recovery
+reduction
+retention
+quality
+science
+scraping
+scrubbing
+security
+stewardship
+storage
+validation
+warehouse
+wrangling/munging
+
+vtedata warehousescr a data warehouseconcepts
+database
+dimension
+dimension modeling
+fact
+olap
+star schema
+snowflak schema
+revers star schema
+aggregate
+variants
+anchor modeling
+column-ori dbms
+data vault modeling
+holap
+molap
+rolap
+oper data store
+elements
+data dictionary/metadata
+data mart
+sixth normal form
+surrog key
+fact
+fact table
+early-arriv fact
+measure
+dimension
+dimens table
+degenerate
+slowli changing
+filling
+extract-transform-load (etl)
+extract
+transform
+load
+us a data warehouseconcepts
+busi intelligence
+dashboard
+data mining
+decis support system (dss)
+olap cube
+data warehous automation
+languages
+data mine extens (dmx)
+multidimension express (mdx)
+xml for analysi (xmla)
+tools
+busi intellig software
+report software
+spreadsheet
+relatedpeople
+bil inmon
+ralph kimball
+products
+comparison of olap servers
+data wareh product and their producers
+
+vtecomput sciencenote: thi templat roughli follow the 2012 acm comput classif system.hardware
+print circuit board
+peripheral
+integr circuit
+veri larg scale integration
+system on chip (socs)
+energi consumpt (green computing)
+electron design automation
+hardwar acceleration
+comput systemsorganization
+comput architecture
+embed system
+real-tim computing
+dependability
+networks
+network architecture
+network protocol
+network components
+network scheduler
+network perform evaluation
+network service
+softwar organization
+interpreter
+middleware
+virtu machine
+oper system
+softwar quality
+softwar notationsand tools
+program paradigm
+program language
+compiler
+domain-specif language
+model language
+softwar framework
+integr develop environment
+softwar configur management
+softwar library
+softwar repository
+softwar development
+control variable
+softwar develop process
+requir analysis
+softwar design
+softwar construction
+softwar deployment
+softwar maintenance
+program team
+open-sourc model
+theori of computation
+model of computation
+form language
+automata theory
+comput theory
+comput complex theory
+logic
+semantics
+algorithms
+algorithm design
+analysi of algorithms
+algorithm efficiency
+random algorithm
+comput geometry
+mathematicsof computing
+discret mathematics
+probability
+statistics
+mathemat software
+inform theory
+mathemat analysis
+numer analysis
+theoret comput science
+informationsystems
+databas manag system
+inform storag systems
+enterpris inform system
+soci inform systems
+geograph inform system
+decis support system
+process control system
+multimedia inform system
+data mining
+digit library
+comput platform
+digit marketing
+world wide web
+inform retrieval
+security
+cryptography
+form methods
+secur services
+intrus detect system
+hardwar security
+network security
+inform security
+appl security
+human–computerinteraction
+interact design
+soci computing
+ubiquit computing
+visualization
+accessibility
+concurrency
+concurr computing
+parallel computing
+distribut computing
+multithreading
+multiprocessing
+artificialintelligence
+natur languag processing
+knowledg represent and reasoning
+comput vision
+autom plan and scheduling
+search methodology
+control method
+philosophi of artifici intelligence
+distribut artifici intelligence
+machin learning
+supervis learning
+unsupervis learning
+reinforc learning
+multi-task learning
+cross-validation
+graphics
+animation
+rendering
+imag manipulation
+graph process unit
+mix reality
+virtu reality
+imag compression
+solid modeling
+appliedcomputing
+e-commerce
+enterpris software
+comput mathematics
+comput physics
+comput chemistry
+comput biology
+comput social science
+comput engineering
+comput healthcare
+digit art
+electron publishing
+cyberwarfare
+electron voting
+video games
+word processing
+oper research
+educ technology
+docu management
+
+ book
+ category
+ outline
+wikiproject
+ commons
+
+author control 
+gnd: 4428654-5
+ma: 124101348, 2777516300
+ndl: 00948240
+
+
+
+
+
+retriev from "https://en.wikipedia.org/w/index.php?title=data_mining&oldid=1014110094"
+categories: data miningform scienceshidden categories: cs1 maint: multipl names: author listwebarch templat wayback linksarticl with short descriptionshort descript is differ from wikidataarticl to be expand from septemb 2011all articl with specif mark weasel-word phrasesarticl with specif mark weasel-word phrase from august 2019common categori link is on wikidataarticl with curli linkswikipedia articl with gnd identifierswikipedia articl with ma identifierswikipedia articl with ndl identifierswikipedia articl with multipl identifiers
+
+
+
+
+
+
+navig menu
+
+
+
+
+person tools
+
+
+not log intalkcontributionscr accountlog in
+
+
+
+
+
+
+namespaces
+
+
+articletalk
+
+
+
+
+
+
+variants
+
+
+
+
+
+
+
+
+
+
+views
+
+
+readeditview history
+
+
+
+
+
+
+more
+
+
+
+
+
+
+
+search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentscurr eventsrandom articleabout wikipediacontact usdonate
+
+
+
+
+
+contribute
+
+
+helplearn to editcommun portalrec changesupload file
+
+
+
+
+
+tools
+
+
+what link hererel changesupload filespeci pagesperman linkpag informationcit thi pagewikidata item
+
+
+
+
+
+print/export
+
+
+download as pdfprintabl version
+
+
+
+
+
+in other projects
+
+
+wikimedia commons
+
+
+
+
+
+languages
+
+
+العربيةঅসমীয়াazərbaycancaবাংলাбългарскиcatalàčeštinacymraegdanskdeutscheestiελληνικάespañoleuskaraفارسیfrançais한국어հայերենहिन्दीhrvatskibahasa indonesiaitalianoעבריתಕನ್ನಡlatviešumagyarмакедонскиമലയാളംमराठीbahasa melayuмонголမြန်မာဘာသာnederlands日本語norsk bokmålnorsk nynorskpolskiportuguêsromânăрусскийshqipsimpl englishslovenčinaslovenščinaсрпски / srpskisrpskohrvatski / српскохрватскиsundasuomisvenskaதமிழ்ไทยтоҷикӣtürkçeукраїнськаtiếng việt吴语ייִדיש粵語中文
+edit links
+
+
+
+
+
+
+ thi page wa last edit on 25 march 2021, at 06:55 (utc).
+text is avail under the creativ common attribution-sharealik license;
+addit term may apply. by use thi site, you agre to the term of use and privaci policy. wikipedia® is a regist trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privaci policy
+about wikipedia
+disclaimers
+contact wikipedia
+mobil view
+developers
+statistics
+cooki statement
+
+
+
+
+
+
+
+
+
+
+ 

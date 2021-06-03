@@ -1,0 +1,425 @@
+
+
+
+
+
+dr. sunni sun chung' big data analyt and cyber secur lab, cleveland state univeristi 
+
+
+
+
+
+
+
+
+big data analytics, ai and cyber secur lab
+dr. sunni sun chung
+se the colleg machazin (in page 3) featur dr. sunni sun chung 
+electr engin and comput scienc (eecs), cleveland state univerity
+email: s.chung@csuohio.edu
+
+
+ 
+
+
+
+ research(current)
+
+ publications(current) 
+teaching(current)
+ people(current) 
+
+
+
+
+
+
+ 
+ 
+
+ 
+big data analytics, ai and cyber secur lab
+ 
+
+
+big data is chang everi aspect of modern life.
+research in big data lab focu on how to shape the chang by big data better 
+ 
+learn more 
+
+
+
+
+
+
+
+
+research areas
+
+
+
+
+
+
+
+text analysi with natur languag process 
+ •	big data analyt in text mine with natur languag process 
+•	context awar medic question answer system with natur languag process 
+
+
+
+machin learning/deep learning
+•	machin learn base intrus detect in wi-fi network systems
+•	deep learn for imag question answer system
+
+
+
+cyb security
+•	cyb secur and privaci in cloud base big data data analyt system 
+•	privaci model of cloud base iot 
+
+
+
+ real time 
+ •	real time sentiment/opinion analysi of social network
+
+
+
+big data analytics
+•	tempor and spatial data process for sport analytics
+• machin learn base identif of food desert defect in urban development
+
+
+
+optimization
+
+•	optim of big data process and parallel process system
+
+
+
+
+
+
+select recent public (last 3 year only) 
+
+
+peer-review journal publications
+sun sunni chung and andrew yu, “tempor and spatial data process for basketbal game analyt for indentif of nba on-bal screen offens play”, in the he ieee transact on emerg topic in comput intellig (tetci), vol 5: issu 4, issn print: 5611-8939, dec 2020
+
+sun sunni chung and andrew yu, “automat identif and analysi of basketbal plays: nba on-bal screens”, in the intern journal of network and distribut comput (ijndc), vol 7: issu 3, issn print: 2211-7938, issn online: 2211-7946, juli 2019
+
+sun sunni chung and daniel aring, "integr real-tim big data stream sentiment analysi service", in journal of data analysi and inform processing, vol 6: no 2, issn print: 2327-7211 issn online: 2327-7203, april 2018
+
+dorothi yiyan zhao and sun sunni chung, "machin learn base identif of food desert defect in urban development", work progress to be submit to journal of data analysi and inform processing, may 2021
+peer-review confer proceed 
+
+mike d’arci and sun sunni chung, “unsupervis topic model base text network construct for learn word embeddings”, in the proceed of the 18th ieee intern confer on machin learn and applications, boca raton florida, dec 2019
+jinji liu and sun sunni chung, “unsupervis automat featur select for machin learn base wi-fi network intrus detection”, in the proceed of the 18th ieee intern confer on machin learn and applications, boca raton florida, dec 2019
+
+sun sunni chung and jinji liu, “automat featur extract and select for machin learn base intrus detection”, in the proceed of the 16th ieee intern confer on advanc and trust computing, leicest uk, august, 2019
+
+sunni s. chung and andrew yu, "framework for analysi and predict of nba basketbal plays", in the proceed of the 16th ieee intern confer on advanc and trust computing, leicest uk, august, 2019
+
+andrew yu and sun sunni chung, "automat identif and analysi of basketbal plays: nba on-bal screens", in the proceed of the 4th ieee intern confer on big data, cloud comput and data scienc engineering, honolulu, may 2019
+
+peer-review book chapter 
+
+andrew yu and sun sunni chung, "automat identif and analysi of basketbal plays: nba on-bal screens", invit to be publish in springer' studi in comput intelligence, may 2019
+
+peer-reviewed/profession workshop/symposium present 
+
+sunni s. chung and daniel aring, “integr real-tim social media sentiment analysi use a big data analyt ecosystem”, present in the workshop on big data and hadoop distribut file system, cleveland oh, nov 2017
+pan li and sunni s chung, “feder experiment cyber infrastructur testb (excit): industri and academia collabor on iot with case western reserv university. present and research demo in iot collabor symposium, may 2017
+
+invit talk 
+
+invit talk to ieee women engin societi invit talk on opinion analysi of social media data, jan 2018
+invit talk to ieee comput societi invit talk on big data analytics, august 2017
+
+research posters/demo 
+
+jinji liu and sun sunni chung, “deep featur extract and select for network intrus detection”, in research day of engin college, oct 2018
+mike d’arcy, utkarsh patel, and sunni s chung on “natur languag process with machin learn for semant document search engine” in research day of engin college, oct 2017
+sunni s. chung and daniel aring, “integr real-tim social media sentiment analysi use a big data analyt ecosystem” in research day of engin college, oct 2017
+
+undergradu summer research 
+
+mike d’arcy, utkarsh patel on “semant document search with machin learning” summer 2017 fund by csu
+mik d’arci on “semant document search with machin learning” summer 2018 fund by csu
+
+research grant / propos (last 4 year only) 
+
+iot collabor pilot grant propos titl “protect privaci in a distribut learn platform with a natur languag process example.” in collabor with ming-chun huang (cwru): award on dec 2018 in the amount of $20,000.00
+nsf 17-570 comput and network system (cns) grant propos titl “democrat comput system design for privacy-sensit cloud/edg environment” submit on nov 2018 
+initi seed grant propos to cleveland foundat for data analyt and cyber security, sunni chung, dec 2015 under acknowledg of formal csu presid berkman and execut resid dr. julien earl (now develop to iot collabor cwru-csu lead by dean sridhar)
+iot collabor grant award: feder experiment cyber infrastructur testb (excit): industri and academia collaboration, pan li (cwru), sunni chung, and wenb zhao (csu). award $20,000 on may 2017 
+frd-iot propos on cyber secur and privaci in iot infrastructur on public cloud, sept 2017
+grant proposal; sunni chung(csu), pan li (case) “cyber secur and privaci of iot on public cloud with encrypt databas querying”, to cleveland foundation, juli 2017
+nsf propos intension, sunni chung, dougla meil (ibm) and brian durkin (progressive): "intent of submiss of propos for award abstract #1550320 in bd hubs: midwest: seedcorn"
+
+teach grant / propos (last 4 year only) 
+
+univers tech support award for big data teach lab in comput science: award in the amount of $12,648, april 2018
+built big data analyt research lab (fh305) in eec dept, colleg of engineering, sept 2018
+grant propos on cross-disciplinari cours develop for big data analyt system in cloud base iot”, sunni chung (csu), pan li, (case western reserv university) to cleveland foundation, juli 2017
+
+ award win senior research projects
+
+ cerebro: real time secur servic (the first prize winner of 2016 senior design in colleg of engineering) by nick white, et al 
+ semant document search with machin learning: sharesci (the best cs senior project winner of 2018) by mike d'arci and utkarsh patel
+ urban real estat analyt servic (the candid of best senior project 2019 in colleg of engineering) by joel stell et. al.
+ : document search engin for collabor content manag by nick mccoy, benjamin mckinsey, et al 
+
+select public befor 2015
+
+research & publications
+
+sun s. chung, d. chung, “fault detect and diagnost use data mining”, in the proceed of 8th wceam, intern confer on engin asset management, hongkong china, oct 2013.
+sun s. chung, d. chung, “integr asset manag with custom data warehouse”, 7th wceam, intern confer on engin asset management, deajeon south korea, oct 2012.
+ white paper on complet kelli benchmark perform optim of secondari join index process for tempor tabl in tempor databas in in mpp parallel data warehous (pdw) system, optim r&d, dbs, teradata corp, el segundo/san diego, 2011.
+ survey paper on research, propos and present on optim of correl subqueri process in major dbm industry, teradata corp. el segundo/san diego, 2010.
+ white paper on research project: build sql-map reduc for big data process in in mpp parallel data warehous (pdw) system, teradata corp. el segundo/san diego, 2010.
+ white paper on build tempor databas in in mpp parallel data warehous (pdw) system, teradata corp. el segundo/san diego, 2009.
+ white paper on join index process for columnar partit databas in mpp parallel data warehous (pdw) system, teradata corp. el segundo/san diego, 2009.
+ invent disclosur record (idr) for teradata on extens of null equal optim in the queri rewrit system, 2009 – in the process of patent under teradata corp, el segundo/san diego, 2009.
+ white paper on predic simplif optim for queri rewrit subsystem in data warehous system, , teradata, ncr, el segundo/san diego, 2008
+ white paper on mark_null_equ queri optim in queri rewrit subsystem in data warehous system, , teradata, ncr, el segundo/san diego, 2007
+process aggreg queri over encrypt databases
+sun s. chung, gultekin ozsoyoglu, accept to 2nd intern ieee workshop on privaci data management-joint with icd 2006, april 2006.
+
+anti-tamp databas - part i: queri encrypt databases
+sun chung, david singer, and gultekin ozsoyoglu, vldb journal on privaci preserv data management, septemb 2005.
+
+queri encrypt databas - part ii: process aggreg queries
+sun chung and gultekin ozsoyoglu, journal of privaci technology, 2005.
+
+ anti-tamp database: queri encrypt databas - extend work
+gultekin ozsoyoglu, david singer, and sun chung, in book chapter of research direct in data and applic secur xviii, sabrina de capitani di vimercati et al., (eds), kluwer academ publisher, prague, boston, 2004.
+
+anti-tamp database: queri encrypt databases
+gultekin ozsoyoglu, david singer, and sun chung, in proceed of 17th ifip 11.3 intern confer on data and applic security, estat park, colorado, u.s.a., august, 2003
+
+ph.d. thesis
+databas security: anti-tamp databases: queri encrypt databases
+sun s. chung, depart of eecs, case western reserv university, september, 2006. 
+
+
+
+
+
+
+
+teaching
+
+
+
+
+advanc topic in databas system for big data 
+ ci 611/cis711 enterpris databas system and data warehous with olap 
+ ci 612/cis712 big data and parallel data process system 
+view detail »
+
+
+big data analyt with machin learning
+ ci 660/cis760 data mine (data analyt and machin learning) 
+ ci 695 special topic on data analyt and big data processing
+ci 601 graduat seminar in comput scienc 
+view detail »
+
+
+enterpris databases
+ ist 734 enterpris databas 
+view detail »
+
+
+databases
+ci 430/530 databas system and processing
+ ci 493/ci 593 big data 
+ist 331 modern databas design and implementation
+view detail »
+
+
+other courses
+ ci 408 internet comput (web application) 
+ ci 465 multimedia
+ci 433 system analysi method 
+view detail »
+
+
+introduction
+ ci 260/500 introduct to program in java
+esc 120 introduct to engin design
+esc 151 c program 
+
+view detail »
+
+
+
+
+
+
+
+
+people
+
+
+
+
+
+se the articl (in page 3) about big data lab and dr. sunni chung !
+
+faculty: dr. sunni sun chung 
+ ph.d. student 
+
+•	yixi luo 
+•	asanka kavinda mananayaka 
+•	amro h. handousa 
+
+ master thesi student 
+•	sean riehl (ms), thesi title: “properti recommend system with geospati data analyt and natur languag process for urban land use”
+
+•	yiyuan dorothi zhao (honor thesis), thesi title: “machin learn base identif of food desert defect in urban development” 
+
+•	labhesh popoli (ms), thesi title: “an attent base deep neural network for visual question answer system”
+
+•	daniel are (ms), thesi title: “integr real-tim social media sentiment analysi use a big data analyt ecosystem”
+
+•	andrew yu (ms), thesi title: "automat identif and analysi of basketbal plays: nba on-bal screens"
+
+ master project student (dure last 5 years) 
+30 master research project student in independ studi 
+
+ senior project student (dure last 5 years) 
+
+20 senior student in the 6 prize win senior project team 
+15 senior student current in the 4 senior research project thi year 
+
+ post graduat student success from big data lab 
+select list of the prestigi industri and academia where our big data lab student land after graduat 
+
+ mr. michael d’arcy: current ph.d student at north western univers 
+ mr. utkarsh patel: current in the master program at univers of southern california (usc) 
+ mr. nick white: current with facebook and attend stanford university. previous with parker hannifin 
+ ms. daniel aring: the first csu graduat data scientist current with first energi 
+ ms. suhua wei: current with amazon 
+ mr. durga p dasepalli: current with amazon 
+ mr. sriniva tejomurthula: current with oracl 
+ mr. andrew yu now teach at penn state univers erie, the behrend college
+
+list of prestigi local industri where sever big data graduat are current with 
+
+ cleveland clinic
+ rockwel 
+ progress 
+ sherwin william 
+ metro health
+ medic mutual
+ hyland software
+ first energy
+ ibm health 
+ rock & roll hall of fame 
+ so mani more 
+
+
+
+
+
+
+
+big data analyt research member 2016 
+
+
+
+
+
+ machin lear with nlp for text analysi research team 2018 
+
+
+
+
+ big data process and machin learn for text analysis: senior design team 2018 
+
+
+
+
+
+big data analyt research member 2019
+
+
+
+
+
+ urban real estat project team: senior design team 2019 
+
+
+
+
+
+ in the ieee intern confer 2019 on big data at hawaii 
+
+
+
+
+
+big data lab workshop 2017
+
+
+
+
+
+big data lab workshop 2019
+
+
+
+
+
+
+
+
+
+
+
+send email to find out how to start learn and research big data analyt 
+
+
+
+
+
+name
+
+pleas enter your name.
+
+
+e-mail
+
+pleas enter a valid e-mail address.
+
+
+message
+
+pleas enter a message.
+
+ send
+
+
+
+
+
+
+
+
+
+
+
+csuohio
+
+
+
+
+
+
+
+
+
+
+ 
